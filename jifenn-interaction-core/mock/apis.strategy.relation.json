@@ -1,0 +1,191 @@
+{
+    "code": 0,
+    "msg": "\u6210\u529f",
+    "data": {
+        "action_predef_list": [{
+            "name": "\u8d60\u9001\u79ef\u5206",
+            "id": 32,
+            "type": 1,
+            "condition_list": "60,61,62,63,64,65,77",
+            "ext_info": {
+                "ruleCount": 1,
+                "defaultRule": 1,
+                "ruleModel": 1,
+                "tabCount": 8
+            },
+            "rule": [{
+                "id": 3,
+                "name": "\u56fa\u5b9a\u79ef\u5206",
+                "is_default": true
+            }, {
+                "id": 4,
+                "name": "\u8d60\u9001\u968f\u673a\u79ef\u5206",
+                "is_default": false
+            }],
+            "action_setting": [{
+                "id": 1,
+                "name": "\u6ee1\u8db3\u591a\u6761\u89c4\u5219\u7b56\u7565",
+                "remark": null
+            }]
+        }, {
+            "name": "\u53d1\u9001\u77ed\u4fe1",
+            "id": 33,
+            "type": 12,
+            "condition_list": "66",
+            "ext_info": {
+                "ruleCount": 1,
+                "defaultRule": 1,
+                "ruleModel": 1,
+                "tabCount": 8
+            },
+            "rule": [{
+                "id": 37,
+                "name": "\u8bbe\u7f6e\u4e00\u6761\u77ed\u4fe1",
+                "is_default": true
+            }],
+            "action_setting": [{
+                "id": 1,
+                "name": "\u6ee1\u8db3\u591a\u6761\u89c4\u5219\u7b56\u7565",
+                "remark": null
+            }]
+        }, {
+            "name": "\u8d4b\u4e88\u6807\u7b7e",
+            "id": 34,
+            "type": 3,
+            "condition_list": "67",
+            "ext_info": {
+                "ruleCount": 1,
+                "defaultRule": 1,
+                "ruleModel": 1,
+                "tabCount": 8
+            },
+            "rule": [{
+                "id": 26,
+                "name": "\u53d6\u6d88\u6307\u5b9a\u6807\u7b7e",
+                "is_default": true
+            }],
+            "action_setting": [{
+                "id": 1,
+                "name": "\u6ee1\u8db3\u591a\u6761\u89c4\u5219\u7b56\u7565",
+                "remark": null
+            }]
+        }, {
+            "name": "\u8d4b\u4e88\u6dd8\u5b9d\u4f18\u60e0\u5238",
+            "id": 36,
+            "type": 6,
+            "condition_list": "28",
+            "ext_info": {
+                "ruleCount": 1,
+                "defaultRule": 1,
+                "ruleModel": 1,
+                "tabCount": 8
+            },
+            "rule": [{
+                "id": 31,
+                "name": "\u6307\u5b9a\u6dd8\u5b9d\u4f18\u60e0\u5238",
+                "is_default": true
+            }],
+            "action_setting": [{
+                "id": 1,
+                "name": "\u6ee1\u8db3\u591a\u6761\u89c4\u5219\u7b56\u7565",
+                "remark": null
+            }]
+        }, {
+            "name": "\u8d4b\u4e88\u652f\u4ed8\u5b9d\u7ea2\u5305",
+            "id": 37,
+            "type": 5,
+            "condition_list": null,
+            "ext_info": {
+                "ruleCount": 1,
+                "defaultRule": 1,
+                "ruleModel": 1,
+                "tabCount": 8
+            },
+            "rule": [{
+                "id": 30,
+                "name": "\u6307\u5b9a\u652f\u4ed8\u5b9d\u7ea2\u5305",
+                "is_default": true
+            }],
+            "action_setting": [{
+                "id": 1,
+                "name": "\u6ee1\u8db3\u591a\u6761\u89c4\u5219\u7b56\u7565",
+                "remark": null
+            }]
+        }, {
+            "name": "\u8d4b\u4e88\u6dd8\u5b9d\u5305\u90ae\u5361",
+            "id": 38,
+            "type": 9,
+            "condition_list": null,
+            "ext_info": {
+                "ruleCount": 1,
+                "defaultRule": 1,
+                "ruleModel": 1,
+                "tabCount": 8
+            },
+            "rule": [{
+                "id": 34,
+                "name": "\u6307\u5b9a\u6dd8\u5b9d\u5305\u90ae\u5361",
+                "is_default": true
+            }],
+            "action_setting": [{
+                "id": 1,
+                "name": "\u6ee1\u8db3\u591a\u6761\u89c4\u5219\u7b56\u7565",
+                "remark": null
+            }]
+        }, {
+            "name": "\u8d4b\u4e88\u793c\u54c1",
+            "id": 39,
+            "type": 10,
+            "condition_list": null,
+            "ext_info": {
+                "ruleCount": 1,
+                "defaultRule": 1,
+                "ruleModel": 1,
+                "tabCount": 8
+            },
+            "rule": [{
+                "id": 35,
+                "name": "\u6307\u5b9a\u793c\u54c1",
+                "is_default": true
+            }],
+            "action_setting": [{
+                "id": 1,
+                "name": "\u6ee1\u8db3\u591a\u6761\u89c4\u5219\u7b56\u7565",
+                "remark": null
+            }]
+        }],
+        "threshold_condition_predef_list": [{
+            "id": 3,
+            "name": "\u65f6\u95f4\u6bb5\u5185\u5355\u7b14\u8ba2\u5355\u91d1\u989d",
+            "type": 1
+        }, {
+            "id": 4,
+            "name": "\u65f6\u95f4\u6bb5\u5185\u5355\u7b14\u8ba2\u5355\u91d1\u989d\uff08\u542b\u8fd0\u8d39\uff09",
+            "type": 1
+        }, {
+            "id": 28,
+            "name": "\u4f1a\u5458\u7b49\u7ea7",
+            "type": 2
+        }, {
+            "id": 33,
+            "name": "\u4f1a\u5458\u52cb\u7ae0",
+            "type": 2
+        }, {
+            "id": 34,
+            "name": "\u4f1a\u5458\u6807\u7b7e",
+            "type": 2
+        }, {
+            "id": 36,
+            "name": "\u65f6\u95f4\u6bb5\u5185\u7d2f\u8ba1\u8ba2\u5355\u91d1\u989d\uff08\u4ed8\u6b3e\u6210\u529f\uff09",
+            "type": 1
+        }, {
+            "id": 38,
+            "name": "\u65f6\u95f4\u6bb5\u5185\u7d2f\u8ba1\u8ba2\u5355\u7b14\u6570\uff08\u4ed8\u6b3e\u6210\u529f\uff09",
+            "type": 1
+        }, {
+            "id": 48,
+            "name": "\u4f1a\u5458\u751f\u65e5",
+            "type": 2
+        }]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "code": 0,
+    "msg": "",
+    "data": {
+        "id": 12334,
+        "name": "测试数据001",
+        "created_at": "2019-08-01 00:00:00",
+        "updated_at": "2019-08-01 00:00:00",
+        "status": 1,
+        "top_pic_url": "http://enbrands-2.oss-cn-shanghai.aliyuncs.com/user/42523174595ef0c98030a6139a28bf23.jpg?x-oss-process=style/imagespace-preview",
+        "body_pic_url":"http://enbrands-2.oss-cn-shanghai.aliyuncs.com/user/42523174595ef0c98030a6139a28bf23.jpg?x-oss-process=style/imagespace-preview",
+        "explanatory_text": "您好大家好"
+    }
+}

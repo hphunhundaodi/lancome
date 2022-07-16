@@ -1,0 +1,54 @@
+{
+    "code": 0,
+    "msg": "\u6210\u529f",
+    "data": {
+        "rewards": {
+            "2_900724": {
+                "reward_type": 2,
+                "reward": 900724,
+                "total_inventory": 1,
+                "available_inventory": 1,
+                "reward_times": 0,
+                "receiver_count": 0,
+                "should_send_count":100000,
+                "title": "01234567890123456789012345678901234567890123456789",
+                "pic_url": "https:\/\/img.alicdn.com\/bao\/uploaded\/i1\/726347798\/TB29.NQaqi5V1BjSspeXXcWPFXa_!!726347798.jpg"
+            },
+            "2_900131": {
+                "reward_type": 2,
+                "reward": 900131,
+                "total_inventory": 2,
+                "available_inventory": 2,
+                "reward_times": 0,
+                "receiver_count": 0,
+                "should_send_count":0,
+                "title": "10\u5143\u4f18\u60e0\u5238\uff08\u94fe\u63a5\u9886\u53d6\uff09",
+                "pic_url": "\/\/enbrands-2.oss-cn-shanghai.aliyuncs.com\/user\/748694ce7f66ec3800b164b76142c0d0.jpg"
+            },
+            "1_1": {
+                "reward_type": 1,
+                "reward": 1,
+                "reward_times": 0,
+                "receiver_count": 0,
+                "title": "1\u79ef\u5206"
+            },
+            "1_2": {
+                "reward_type": 1,
+                "reward": 2,
+                "reward_times": 0,
+                "receiver_count": 0,
+                "title": "2\u79ef\u5206"
+            },
+            "1_500": {
+                "reward_type": 1,
+                "reward": 500,
+                "reward_times": 0,
+                "receiver_count": 0,
+                "title": "500\u79ef\u5206"
+            }
+        },
+        "receiver_count": 0,
+        "reward_times": 0,
+        "date": "2019-09-02"
+    }
+}

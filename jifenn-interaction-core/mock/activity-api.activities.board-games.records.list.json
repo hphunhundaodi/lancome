@@ -1,0 +1,20 @@
+{
+    "code": "0",
+    "msg": "成功",
+    "data": {
+        "page": 1,
+        "page_size": 10,
+        "count": 1,
+        "list": [
+            {
+                "account": 4,
+                "member_id": 4,
+                "phone": "http://www.baidu.com",
+                "last_game_date": "11-12人群另存1811151153",
+                "card_count":12,
+                "reward_count":13,
+                "record_count": 14
+            }
+        ]
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "code": 0,
+    "msg": "",
+    "data": {
+        "ChangeLogInfo": {
+            "id": null,
+            "rightType": 2,
+            "numBeforeChange": 2,
+            "numChange": 2,
+            "remark": "**\u7b49\u7ea7\u4e0d\u53d8\uff0c\u4e0d\u8bb0\u5f55\u65e5\u5fd7..."
+        }
+    }
+}

@@ -1,0 +1,104 @@
+@import "//at.alicdn.com/t/font_2313871_r0isg7vje6r.css";
+
+@mobile-height: 667px;
+@mobile-title-height: 44px;
+
+// 首页容器样式
+.index-container-zero {
+  position: relative;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  .preview-wrap {
+    float: left;
+    position: sticky;
+    top: 40px;
+    left: 0;
+    .radio-box {
+      width: 100%;
+      padding: 20px 0;
+      text-align: center;
+    }
+    .mobile {
+      position: relative;
+      width: 375px;
+      height: @mobile-height;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+      .mobile-title {
+        width: 100%;
+        height: @mobile-title-height;
+        box-sizing: border-box;
+        background-image: url("//enbrands-2.oss-cn-shanghai.aliyuncs.com/user/a6d3ab14d8108b11b495202ed26573b2.png");
+        background-size: 100%;
+        background-position: center;
+        background-repeat: no-repeat;
+        position: relative;
+        padding: 0 11px;
+        .name {
+          font-size: 18px;
+          color: #333333;
+          font-family: PingFangSC-Semibold, PingFang SC;
+          font-weight: 600;
+          line-height: @mobile-title-height;
+        }
+      }
+      .mobile-content {
+        position: relative;
+        width: 100%;
+        height: ceil(@mobile-height - @mobile-title-height);
+        .iframe {
+          width: 100%;
+          height: 100%;
+        }
+        .mask {
+          position: absolute;
+          top: 0;
+          bottom: 0;
+          right: 0;
+          left: 0;
+          transform: translate3d(0, 0, 0);
+        }
+      }
+    }
+  }
+  .editor-wrap {
+    margin-left: 410px;
+  }
+
+
+}
+.mobile-height {
+  min-height: calc(100% - 20px);
+  box-sizing: border-box;
+}
+.fission-container {
+  padding: 12px;
+  border-radius: 2px;
+  border: 1px solid #e3e6eb;
+  overflow: hidden;
+}
+.ellipsis {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+@keyframes btt-drawer-in {
+  0% {
+    opacity: 0;
+    transform: translateY(100%);
+  }
+  to {
+    opacity: 1;
+    transform: translate(0);
+  }
+}
+
+@keyframes btt-drawer-out {
+  0% {
+    opacity: 1;
+    transform: translate(0);
+  }
+  to {
+    opacity: 0;
+    transform: translateY(100%);
+  }
+}

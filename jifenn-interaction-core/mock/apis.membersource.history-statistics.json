@@ -1,0 +1,9 @@
+{
+    "code": 0,
+    "msg": "\u6210\u529f",
+    "data": {
+        "today_count": 1,
+        "yesterday_count": 2,
+        "history_count": 0
+    }
+}

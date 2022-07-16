@@ -1,0 +1,190 @@
+{
+    "code": 0,
+    "msg": "\u6210\u529f",
+    "data": {
+        "page_num": 40,
+        "page_size": "10",
+        "count": 392,
+        "list": [{
+            "id": 6,
+            "level": "lv2",
+            "member_platform_bind": [{
+                "id": 7,
+                "member_id": 6,
+                "platform_type": 1,
+                "platform_open_id": "\u661301HFA0h9Akj3I9X1l3FB5A+M2DEMds1FAQI7fgfrP3PMg=",
+                "nick": "\u4e00\u4e00",
+                "status": 1,
+                "created_at": "2017-11-24 14:26:15",
+                "updated_at": "2018-01-09 11:45:16"
+            }],
+            "point": 21,
+            "username": "",
+            "level_begin_at": null,
+            "level_end_at": null,
+            "expire_type": 1
+        }, {
+            "id": 7,
+            "level": "lv3",
+            "member_platform_bind": [{
+                "id": 8,
+                "member_id": 7,
+                "platform_type": 1,
+                "platform_open_id": "\u661301fXibP6oIRd2MOMN0TreoMM16em85Fa0GBxDkCy7kcI8=",
+                "nick": "",
+                "status": 1,
+                "created_at": "2017-11-24 14:27:21",
+                "updated_at": "2018-01-08 18:39:32"
+            }],
+            "point": 221,
+            "username": "",
+            "level_begin_at": null,
+            "level_end_at": null,
+            "expire_type": 1
+        }, {
+            "id": 8,
+            "level": "lv3",
+            "member_platform_bind": [{
+                "id": 9,
+                "member_id": 8,
+                "platform_type": 1,
+                "platform_open_id": "\u6613011rExFR2vB+LozLswqE\/zVc16em85Fa0GBxDkCy7kcI8=",
+                "nick": "\u6613\u541b\u798f2",
+                "status": 1,
+                "created_at": "2017-11-24 14:27:30",
+                "updated_at": "2017-11-24 14:27:30"
+            }],
+            "point": 0,
+            "username": "",
+            "level_begin_at": null,
+            "level_end_at": null,
+            "expire_type": 1
+        }, {
+            "id": 9,
+            "level": "lv1",
+            "member_platform_bind": [{
+                "id": 10,
+                "member_id": 9,
+                "platform_type": 1,
+                "platform_open_id": "\u661301jA5O1NGSOBu71Osp0qZUXc16em85Fa0GBxDkCy7kcI8=",
+                "nick": "\u6613\u541b\u798f3",
+                "status": 1,
+                "created_at": "2017-11-24 14:27:36",
+                "updated_at": "2017-11-24 14:27:36"
+            }],
+            "point": 0,
+            "username": "",
+            "level_begin_at": null,
+            "level_end_at": null,
+            "expire_type": 1
+        }, {
+            "id": 10,
+            "level": "lv2",
+            "member_platform_bind": [{
+                "id": 11,
+                "member_id": 10,
+                "platform_type": 1,
+                "platform_open_id": "\u661301F3IIaq14Ma7WUwchlvUiPM16em85Fa0GBxDkCy7kcI8=",
+                "nick": "\u6613\u541b\u798f4",
+                "status": 1,
+                "created_at": "2017-11-24 14:27:41",
+                "updated_at": "2017-11-24 14:27:41"
+            }],
+            "point": 0,
+            "username": "",
+            "level_begin_at": null,
+            "level_end_at": null,
+            "expire_type": 1
+        }, {
+            "id": 11,
+            "level": "lv3",
+            "member_platform_bind": [{
+                "id": 12,
+                "member_id": 11,
+                "platform_type": 1,
+                "platform_open_id": "\u661301GuRvf\/wPDd0EwhPeiWdDes16em85Fa0GBxDkCy7kcI8=",
+                "nick": "\u6613\u541b\u798f5",
+                "status": 1,
+                "created_at": "2017-11-24 14:27:48",
+                "updated_at": "2017-11-24 14:27:48"
+            }],
+            "point": 0,
+            "username": "",
+            "level_begin_at": null,
+            "level_end_at": null,
+            "expire_type": 1
+        }, {
+            "id": 12,
+            "level": "lv2",
+            "member_platform_bind": [{
+                "id": 13,
+                "member_id": 12,
+                "platform_type": 1,
+                "platform_open_id": "\u661301ZA0XCQ7ksSJObGPAriVH9816em85Fa0GBxDkCy7kcI8=",
+                "nick": "\u6613\u541b\u798f6",
+                "status": 1,
+                "created_at": "2017-11-24 14:27:53",
+                "updated_at": "2017-11-24 14:27:53"
+            }],
+            "point": 0,
+            "username": "",
+            "level_begin_at": null,
+            "level_end_at": null,
+            "expire_type": 1
+        }, {
+            "id": 13,
+            "level": "lv2",
+            "member_platform_bind": [{
+                "id": 14,
+                "member_id": 13,
+                "platform_type": 1,
+                "platform_open_id": "\u661301\/EQVoXdh5TNNGomS6wDVzs16em85Fa0GBxDkCy7kcI8=",
+                "nick": "\u6613\u541b\u798f7",
+                "status": 1,
+                "created_at": "2017-11-24 14:27:58",
+                "updated_at": "2017-11-24 14:27:58"
+            }],
+            "point": 0,
+            "username": "",
+            "level_begin_at": null,
+            "level_end_at": null,
+            "expire_type": 1
+        }, {
+            "id": 14,
+            "level": "lv3",
+            "member_platform_bind": [{
+                "id": 15,
+                "member_id": 14,
+                "platform_type": 1,
+                "platform_open_id": "\u661301\/up6F+CuwOHm3mmaiGh+h816em85Fa0GBxDkCy7kcI8=",
+                "nick": "\u6613\u541b\u798f8",
+                "status": 1,
+                "created_at": "2017-11-24 14:28:03",
+                "updated_at": "2017-11-24 14:28:03"
+            }],
+            "point": 0,
+            "username": "",
+            "level_begin_at": null,
+            "level_end_at": null,
+            "expire_type": 1
+        }, {
+            "id": 15,
+            "level": "lv3",
+            "member_platform_bind": [{
+                "id": 16,
+                "member_id": 15,
+                "platform_type": 1,
+                "platform_open_id": "\u661301Mff+csvsUA+G3EUiwa7iRM16em85Fa0GBxDkCy7kcI8=",
+                "nick": "\u6613\u541b\u798f9",
+                "status": 1,
+                "created_at": "2017-11-24 14:28:08",
+                "updated_at": "2017-11-24 14:28:08"
+            }],
+            "point": 0,
+            "username": "",
+            "level_begin_at": null,
+            "level_end_at": null,
+            "expire_type": 1
+        }]
+    }
+}

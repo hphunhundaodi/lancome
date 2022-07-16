@@ -1,0 +1,49 @@
+{
+    "code": 0,
+    "msg": "成功",
+    "data": {
+        "list": [
+            {
+                "id": 1,
+                "name": "吸尘器",
+                "description": "",
+                "style": null
+            },
+            {
+                "id": 2,
+                "name": "吹风机",
+                "description": "",
+                "style": null
+            },
+            {
+                "id": 3,
+                "name": "控件照明",
+                "description": "",
+                "style": null
+            },
+            {
+                "id": 4,
+                "name": "hah",
+                "description": "",
+                "style": null
+            },
+            {
+                "id": 5,
+                "name": "ooooooo",
+                "description": "",
+                "style": null
+            },
+            {
+                "id": 6,
+                "name": "uuu",
+                "description": "",
+                "style": null
+            }
+        ],
+        "total": 1,
+        "page_size": 10,
+        "page": 1,
+        "last_page": 1
+    },
+    "sub_code": ""
+}

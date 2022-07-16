@@ -1,0 +1,43 @@
+{
+    "code": 0,
+    "msg": "成功",
+    "data": {
+        "count": 3,
+        "page_num": 1,
+        "page_size": 10,
+        "list": [
+            {
+                "id":1,
+                "nick": "test",
+                "join_time": "2020-11-12 12:00:00",
+                "phone": "15623459809",
+                "source_type": 1,
+                "invited_nick": "test",
+                "invited_phone": "15623459809",
+                "channel": "test",
+                "platform_open_id": "3yuFnU8w5yVAqT9nn6lnZ7cacExIx+8aylCY=",
+                "create_time": "2020-11-12 12:00:00"
+            },{
+                "id":2,
+                "nick": "test213qdasd1231edasdasd2czcx322d23d2d2df",
+                "join_time": "2020-11-12 12:00:00",
+                "phone": "15623459809",
+                "source_type": 1,
+                "invited_nick": "",
+                "invited_phone": "",
+                "channel": "test",
+                "platform_open_id": "3yuFnU8w5yVAqT9nn6lnZ7cacExIx+8aylCY=",
+                "create_time": "2020-11-12 12:00:00"
+            },{
+                "id":3,
+                "nick": "test",
+                "join_time": "2020-11-12 12:00:00",
+                "phone": "15623459809",
+                "source_type": 1,
+                "channel": "test",
+                "platform_open_id": "3yuFnU8w5yVAqT9nn6lnZ7cacExIx+8aylCY=",
+                "create_time": "2020-11-12 12:00:00"
+            }
+        ]
+    }
+}

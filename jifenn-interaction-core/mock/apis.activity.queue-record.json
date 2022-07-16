@@ -1,0 +1,51 @@
+{
+    "code": 0,
+    "msg": "成功",
+    "data": {
+        "count": 100,
+        "list": [
+            {
+                "created_at": "2020-03-09 11:22:33",
+                "name" : "参与排队",
+                "queue_num": "99",
+                "draw_status" : "未中奖",
+                "gift_name":"奖品名称",
+                "send_status" : "已发送"
+            },
+            {
+                "created_at": "2020-03-09 11:22:33",
+                "name" : "参与排队",
+                "queue_num": "99",
+                "draw_status" : "中奖",
+                "gift_name":"奖品名称",
+                "send_status" : "已发送"
+            },
+            {
+                "created_at": "2020-03-09 11:22:33",
+                "name" : "参与排队",
+                "queue_num": "99",
+                "draw_status" : "中奖",
+                "gift_name":"奖品名称",
+                "send_status" : "已发送"
+            },
+            {
+                "created_at": "2020-03-09 11:22:33",
+                "name" : "参与排队",
+                "queue_num": "99",
+                "draw_status" : "中奖",
+                "gift_name":"奖品名称",
+                "send_status" : "已发送"
+            },
+            {
+                "created_at": "2020-03-09 11:22:33",
+                "name" : "参与排队",
+                "queue_num": "99",
+                "draw_status" : "中奖",
+                "gift_name":"奖品名称",
+                "send_status" : "已发送"
+            }
+        ],
+        "page_num": 20,
+        "page_size": 10
+    }
+}

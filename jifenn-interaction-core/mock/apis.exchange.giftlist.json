@@ -1,0 +1,81 @@
+{
+    "code": 0,
+    "msg": "成功",
+    "data": {
+        "page_num": 2,
+        "page_size": 5,
+        "count": 8,
+        "list": [
+            {
+                "gift_id": 900019,
+                "title": "这是mock数据里的",
+                "type_id": 90000001,
+                "type_name": "test",
+                "pic_url": "\/\/enbrands-2.oss-cn-shanghai.aliyuncs.com\/user\/6e5c4aed9d228629e7f0d154ff0896f8.jpg",
+                "available": 666,
+                "merchant_num": 1900125,
+                "name": "2008chzhx",
+                "status": 6,
+                "created_at": "2019-12-20 13:36:00",
+                "eff_date": "2019-12-20 13:35:20",
+                "exp_date": "2024-06-16 13:35:19"
+            },
+            {
+                "gift_id": 900018,
+                "title": "测试商品122002（勿拍，不发货）",
+                "type_id": 800001,
+                "type_name": "淘宝店铺宝贝",
+                "pic_url": "https:\/\/img.alicdn.com\/bao\/uploaded\/i2\/323220233\/O1CN01YuBROE1DakrYKxj6I_!!323220233.jpg",
+                "available": 10000,
+                "merchant_num": 1900125,
+                "name": "2008chzhx",
+                "status": 6,
+                "created_at": "2019-12-20 11:37:02",
+                "eff_date": "2019-12-20 11:36:44",
+                "exp_date": "2020-01-24 11:36:45"
+            },
+            {
+                "gift_id": 900017,
+                "title": "测试商品122001（勿拍，不发货）",
+                "type_id": 800001,
+                "type_name": "淘宝店铺宝贝",
+                "pic_url": "https:\/\/img.alicdn.com\/bao\/uploaded\/i1\/323220233\/O1CN01x5HgMq1DakrTrlYTE_!!323220233.jpg",
+                "available": 15,
+                "merchant_num": 1900125,
+                "name": "2008chzhx",
+                "status": 6,
+                "created_at": "2019-12-20 11:36:33",
+                "eff_date": "2019-12-20 11:35:44",
+                "exp_date": "2020-01-11 11:35:46"
+            },
+            {
+                "gift_id": 900016,
+                "title": "测试商品121901（不发货，勿拍）",
+                "type_id": 800001,
+                "type_name": "淘宝店铺宝贝",
+                "pic_url": "https:\/\/img.alicdn.com\/bao\/uploaded\/i4\/323220233\/O1CN01BuNlhK1DakrMEyzIW_!!323220233.jpg",
+                "available": 25,
+                "merchant_num": 1900125,
+                "name": "2008chzhx",
+                "status": 6,
+                "created_at": "2019-12-19 09:53:40",
+                "eff_date": "2019-12-19 09:53:28",
+                "exp_date": "2019-12-28 09:53:30"
+            },
+            {
+                "gift_id": 900015,
+                "title": "测试商品121901（不发货，勿拍）",
+                "type_id": 800001,
+                "type_name": "淘宝店铺宝贝",
+                "pic_url": "https:\/\/img.alicdn.com\/bao\/uploaded\/i4\/323220233\/O1CN01BuNlhK1DakrMEyzIW_!!323220233.jpg",
+                "available": 40,
+                "merchant_num": 1900125,
+                "name": "2008chzhx",
+                "status": 6,
+                "created_at": "2019-12-19 09:53:05",
+                "eff_date": "2019-12-19 18:27:04",
+                "exp_date": "2019-12-28 18:27:06"
+            }
+        ]
+    }
+}

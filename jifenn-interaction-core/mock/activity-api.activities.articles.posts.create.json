@@ -1,0 +1,32 @@
+{
+    "code": 0,
+    "msg": "成功",
+    "data": {
+        "policyList": [{
+                "name": "人群名称1",
+                "crowds_num": 2,
+                "total_num": 555,
+                "create_at": "2019-05-15 16:08"
+            },
+            {
+                "name": "人群名称2",
+                "crowds_num": 3,
+                "total_num": 555,
+                "create_at": "2019-05-15 16:08"
+            },
+            {
+                "name": "人群名称3",
+                "crowds_num": 2,
+                "total_num": 555,
+                "create_at": "2019-05-15 16:08"
+            },
+            {
+                "name": "人群名称4",
+                "crowds_num": 2,
+                "total_num": 555,
+                "create_at": "2019-05-15 16:08"
+            }
+        ]
+    },
+    "sub_code": ""
+}

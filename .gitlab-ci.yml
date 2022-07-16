@@ -1,0 +1,20 @@
+# This file is a template, and might need editing before it works on your project.
+# Official framework image. Look for the different tagged releases at:
+# https://hub.docker.com/r/library/node/tags/
+image: node:latest
+
+
+# This folder is cached between builds
+# http://docs.gitlab.com/ce/ci/yaml/README.html#cache
+cache:
+  paths:
+  - node_modules/
+
+trigger_build:
+  stage: deploy
+  script:
+    - "curl -X POST -F token=12792eb75544cbf4f22fd529e102f3 -F ref=sim http://git.dev.enbrands.com/api/v4/projects/45/trigger/pipeline"
+  only:
+    - sim
+    
+    

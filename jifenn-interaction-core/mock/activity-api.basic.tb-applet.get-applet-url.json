@@ -1,0 +1,27 @@
+{
+    "code": 0,
+    "msg": "\u6210\u529f",
+    "data": {
+        "3000000002130974": {
+            "template_id": "3000000002130974",
+            "online_url": "https:\/\/m.duanqu.com?_ariver_appid=3000000002130974&nbsv=1.8.33&nbsource=debug&nbsn=TRIAL&_mp_code=tb",
+            "app_id": "3000000005387891"
+        },
+        "3000000002442241": {
+            "template_id": "3000000002442241",
+            "online_url": "https:\/\/m.duanqu.com?_ariver_appid=3000000002442241&nbsv=1.11.23&nbsource=debug&nbsn=TRIAL&_mp_code=tb",
+            "app_id": "3000000002842441"
+        },
+        "3000000005087845": {
+            "template_id": "3000000005087845",
+            "online_url": "https:\/\/m.duanqu.com?_ariver_appid=3000000005087845&nbsv=0.1.2008200952.15&nbsource=debug&nbsn=DEBUG&_mp_code=tb",
+            "app_id": null
+        },
+        "3000000006501031": {
+            "template_id": 3000000006501031,
+            "app_id": "3000000006501031",
+            "online_url": "https:\/\/m.duanqu.com?_ariver_appid=3000000006501031&nbsv=1.0.22&nbsource=debug&nbsn=TRIAL&_mp_code=tb"
+        }
+    },
+    "sub_code": ""
+}

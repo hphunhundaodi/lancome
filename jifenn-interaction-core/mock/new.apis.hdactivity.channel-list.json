@@ -1,0 +1,36 @@
+{
+    "code": 0,
+    "msg": "成功",
+    "data": {
+        "count": 1,
+        "page_num": 10,
+        "page_size": 10,
+        "list": [
+            {
+                "id": 1,
+                "name": "test1",
+                "url":"https://test-s2.enbrands.com/statistic/#/survey"
+            },
+            {
+                "id": 2,
+                "name": "test2",
+                "url":"https://test-s2.enbrands.com/statistic/#/survey"
+            },
+            {
+                "id": 3,
+                "name": "test3",
+                "url":"https://test-s2.enbrands.com/statistic/#/survey"
+            },
+            {
+                "id": 4,
+                "name": "test4",
+                "url":"https://test-s2.enbrands.com/statistic/#/survey"
+            },
+            {
+                "id": 5,
+                "name": "test5",
+                "url":"https://test-s2.enbrands.com/statistic/#/survey"
+            }
+        ]
+    }
+}

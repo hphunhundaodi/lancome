@@ -1,0 +1,111 @@
+{
+    "code": 0,
+    "msg": "成功",
+    "data": {
+        "id": 2,
+        "merchant_num": 1000012,
+        "type": 4,
+        "name": "测试添加事件关怀22",
+        "scenario_id": 21,
+        "start_time": "2018-01-18 16:40:10",
+        "end_time": "2018-01-19 16:40:10",
+        "ext_params": "",
+        "inst_config_info": "",
+        "status": 2,
+        "remarks": "0",
+        "created_at": "2018-01-19 15:22:20",
+        "updated_at": "2018-01-19 15:22:20",
+        "rules": [{
+            "id": 1,
+            "name": "测试规则1111",
+            "rule_predef_id": 21,
+            "interaction_id": 2,
+            "params": "{\"value\":1}",
+            "andwith": 0,
+            "priority": 0,
+            "created_at": "2018-01-18 17:27:27",
+            "updated_at": "2018-01-19 17:57:11",
+            "conditions": [{
+                "id": 4,
+                "condition_predef_id": 81,
+                "type": 1,
+                "type_id": 1,
+                "params": "{所得税的方式}",
+                "priority": 5,
+                "created_at": "2018-01-22 15:02:19",
+                "updated_at": "2018-01-22 15:22:22",
+                "remarks": ""
+            }]
+        }, {
+            "id": 2,
+            "name": "测试规则22222",
+            "rule_predef_id": 21,
+            "interaction_id": 2,
+            "params": "{\"value\":1}",
+            "andwith": 0,
+            "priority": 0,
+            "created_at": "2018-01-18 17:32:59",
+            "updated_at": "2018-01-19 18:00:31",
+            "conditions": [{
+                "id": 5,
+                "condition_predef_id": 81,
+                "type": 1,
+                "type_id": 2,
+                "params": "{所得税的方式}",
+                "priority": 5,
+                "created_at": "2018-01-22 15:02:19",
+                "updated_at": "2018-01-22 15:22:24",
+                "remarks": ""
+            }]
+        }],
+        "thresholds": [{
+            "id": 1,
+            "name": "测试门槛1111s",
+            "merchant_num": 1000012,
+            "interaction_id": 2,
+            "andwith": 0,
+            "created_at": "2018-01-18 17:34:17",
+            "updated_at": "2018-01-19 17:57:17",
+            "conditions": [{
+                "id": 2,
+                "condition_predef_id": 81,
+                "type": 0,
+                "type_id": 1,
+                "params": "{所得税的方式}",
+                "priority": 5,
+                "created_at": "2018-01-22 15:02:19",
+                "updated_at": "2018-01-22 15:22:20",
+                "remarks": ""
+            }]
+        }, {
+            "id": 2,
+            "name": "测试门槛2222s",
+            "merchant_num": 1000012,
+            "interaction_id": 2,
+            "andwith": 1,
+            "created_at": "2018-01-18 17:34:17",
+            "updated_at": "2018-01-19 17:57:23",
+            "conditions": [{
+                "id": 1,
+                "condition_predef_id": 81,
+                "type": 0,
+                "type_id": 2,
+                "params": "{所得税的方式}",
+                "priority": 5,
+                "created_at": "2018-01-22 15:02:19",
+                "updated_at": "2018-01-22 15:22:19",
+                "remarks": ""
+            }, {
+                "id": 3,
+                "condition_predef_id": 81,
+                "type": 0,
+                "type_id": 2,
+                "params": "{所得税的方式}",
+                "priority": 5,
+                "created_at": "2018-01-22 15:02:19",
+                "updated_at": "2018-01-22 15:22:21",
+                "remarks": ""
+            }]
+        }]
+    }
+}

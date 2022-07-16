@@ -1,0 +1,24 @@
+{
+	"code": 0,
+	"msg": "成功",
+	"data": {
+		"list": [{
+			"id": 132872,
+			"merchant_num": 1002865,
+			"activity_id": 26,
+			"member_id": 0,
+			"member_open_id": "t019zlVIs6vFBHejPy68sqo8Jq8qGekDqre2uZnHtcQpY8=",
+			"act_category": 3,
+			"action": 5,
+			"relation_member_id": 0,
+			"relation_open_id": "t01sEQUSiERah+k31zgmPTuxAKHM0CMIQafAKaTQc17qGM=",
+			"status": 1,
+			"remark": "{\"result\":\"\",\"reason\":\"\",\"var_list\":{\"nick\":\"tb64574517\"}}",
+			"extra_info": "",
+			"created_at": "2020-02-09 21:01:57",
+			"updated_at": "2020-02-09 21:01:57",
+			"relation_nick": "tb64574517"
+		}],
+		"count": 1
+	}
+}

@@ -1,0 +1,14 @@
+{
+    "id": 28,
+    "strategyId": 1,
+    "name": "互动竞猜",
+    "description": "互动竞猜互动竞猜互动竞猜互动竞猜互动竞猜",
+    "iconurl_32": null,
+    "iconurl_128": null,
+    "config_url": null,
+    "img_url": "//enbrands-2.oss-cn-shanghai.aliyuncs.com/user/c6d1554a8c5085a8f0c5078b7f844746.png",
+    "tmpl": "28bet.html",
+    "previewTmpl":"1-preview.html",
+    "extparams": "",
+    "platform": -1
+}

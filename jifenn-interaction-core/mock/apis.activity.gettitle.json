@@ -1,0 +1,32 @@
+{
+    "code": 0,
+    "msg": "\u6210\u529f",
+    "data": {
+        "activity_id": "506",
+        "etc": {
+            "need_score": "76",
+            "rule_id": 1,
+            "everyone": "",
+            "all": "666"
+        },
+        "titles": [{
+            "id": 13,
+            "activity_id": 506,
+            "type": 1,
+            "title": "hjkhjk",
+            "options": ["566", "68999"],
+            "right_key": null,
+            "created_at": "2018-05-28 17:05:05",
+            "updated_at": "2018-05-28 17:05:05"
+        }, {
+            "id": 14,
+            "activity_id": 506,
+            "type": 2,
+            "title": "jhoiuioui",
+            "options": ["", ""],
+            "right_key": "9yuikuiyk",
+            "created_at": "2018-05-28 17:05:05",
+            "updated_at": "2018-05-28 17:05:05"
+        }]
+    }
+}

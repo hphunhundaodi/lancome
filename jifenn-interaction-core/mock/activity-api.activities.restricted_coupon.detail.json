@@ -1,0 +1,68 @@
+{
+    "code": 0,
+    "msg": "\u6210\u529f",
+    "data": {
+        "activity": {
+            "id": 63,
+            "status": 2,
+            "activity_id": 6,
+            "name": "11",
+            "begin_at": "2020-04-14 16:13:56",
+            "end_at": "2020-04-15 16:13:58",
+            "settings": {
+                "rule": {
+                    "id": "6",
+                    "value": [1,2,3,4,5]
+                },
+                "rewardId": 105
+            },
+            "styles": {
+                "id": 1,
+                "name": "\u73a9\u6cd5\u4ecb\u7ecd",
+                "themeType": "2",
+                "type": 1,
+                "IsGif": 1,
+                "ruleX": 187,
+                "ruleY": 25,
+                "mainBg": "\/\/enbrands-2.oss-cn-shanghai.aliyuncs.com\/user\/74ccec7f9ad6d7582a86fb08e252732e.gif",
+                "img_url": "\/\/enbrands-2.oss-cn-shanghai.aliyuncs.com\/user\/74ccec7f9ad6d7582a86fb08e252732e.gif",
+                "ruleImage": "\/\/enbrands-2.oss-cn-shanghai.aliyuncs.com\/ebs\/systemImg\/3.png",
+                "couponBtnH": 50,
+                "couponBtnW": 200,
+                "couponBtnX": 25,
+                "couponBtnY": 360,
+                "description": "\u901a\u8fc7\u9886\u53d6\u4f18\u60e0\u5238\u7684\u65b9\u5f0f\uff0c\u5f15\u5bfc\u6d88\u8d39\u8005\u5165\u4f1a\uff0c\u5173\u6ce8\u7b49",
+                "ruleContent": null
+            },
+            "created_at": "2020-04-14 16:14:07",
+            "applet_url": "",
+            "merchant_num": 1900110
+        },
+        "reward": {
+            "id": 105,
+            "original_id": 105,
+            "activity_instance_id": 63,
+            "relative_reward_id": 900038,
+            "reward_tag": "",
+            "reward_type": 3,
+            "has_stock": 1,
+            "total_stock": 13,
+            "remaining_stock": 13,
+            "snapshot": {
+                "link": "http:\/\/taobao.com",
+                "title": "\u9650\u5b9a\u5238\u6d4b\u8bd5\u793c\u54c1",
+                "pic_url": "\/\/enbrands-2.oss-cn-shanghai.aliyuncs.com\/ebs\/systemImg\/13.jpg",
+                "type_id": 900001,
+                "gift_url": null,
+                "type_name": "\u4e00\u6b21\u6027\u793c\u54c1",
+                "issue_mode": "P"
+            },
+            "created_at": "2020-04-14 16:14:07",
+            "updated_at": "2020-04-14 16:53:35",
+            "deleted_at": null,
+            "title": "\u9650\u5b9a\u5238\u6d4b\u8bd5\u793c\u54c1",
+            "gift_availabled": 4510
+        }
+    },
+    "sub_code": ""
+}

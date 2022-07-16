@@ -1,0 +1,16 @@
+{
+    "code": 0,
+    "msg": "成功",
+    "data": {
+        "list": [
+            {
+                "created_at": "2019-07-04 10:59:46",
+                "action":"发起助力",
+                "invite_nick": "i****w",
+                "invite_status": "助力成功",
+                "remark": "奖励状态"
+            }
+        ],
+        "count": 1
+    }
+}

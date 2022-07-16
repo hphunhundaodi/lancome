@@ -1,0 +1,100 @@
+{
+    "code": 0,
+    "msg": "\u6210\u529f",
+    "data": {
+        "action_predef_list": [{
+            "name": "\u8c03\u6574\u79ef\u5206",
+            "id": 1,
+            "type": 1,
+            "condition_list": "",
+            "ext_info": {
+                "ruleCount": 1,
+                "defaultRule": 1,
+                "ruleModel": 1
+            },
+            "rule": [{
+                "id": 1,
+                "name": "\u56fa\u5b9a\u79ef\u5206",
+                "is_default": true
+            }, {
+                "id": 2,
+                "name": "\u6309\u5bfc\u5165\u6587\u4ef6\u3010\u79ef\u5206\u3011\u5b57\u6bb5\u53d8\u66f4\u79ef\u5206",
+                "is_default": false
+            }],
+            "action_setting": [{
+                "id": 1,
+                "name": "\u6ee1\u8db3\u591a\u6761\u89c4\u5219\u7b56\u7565",
+                "remark": null
+            }]
+        }, {
+            "name": "\u8d4b\u4e88\u6807\u7b7e",
+            "id": 9,
+            "type": 3,
+            "condition_list": "36,38",
+            "ext_info": {
+                "ruleCount": 1,
+                "defaultRule": 1,
+                "ruleModel": 1
+            },
+            "rule": [{
+                "id": 24,
+                "name": "\u6307\u5b9a\u6807\u7b7e",
+                "is_default": true
+            }],
+            "action_setting": [{
+                "id": 1,
+                "name": "\u6ee1\u8db3\u591a\u6761\u89c4\u5219\u7b56\u7565",
+                "remark": null
+            }]
+        }, {
+            "name": "\u8d4b\u4e88\u52cb\u7ae0",
+            "id": 11,
+            "type": 4,
+            "condition_list": "",
+            "ext_info": {
+                "ruleCount": 1,
+                "defaultRule": 1,
+                "ruleModel": 1
+            },
+            "rule": [{
+                "id": 27,
+                "name": "\u6307\u5b9a\u52cb\u7ae0",
+                "is_default": true
+            }, {
+                "id": 28,
+                "name": "\u6309\u5bfc\u5165\u6587\u4ef6\u3010\u52cb\u7ae0\u3011\u5b57\u6bb5\u8d4b\u4e88\u52cb\u7ae0",
+                "is_default": false
+            }],
+            "action_setting": [{
+                "id": 1,
+                "name": "\u6ee1\u8db3\u591a\u6761\u89c4\u5219\u7b56\u7565",
+                "remark": null
+            }]
+        }, {
+            "name": "\u8d4b\u4e88\u7b49\u7ea7",
+            "id": 25,
+            "type": 2,
+            "condition_list": null,
+            "ext_info": {
+                "ruleCount": 1,
+                "defaultRule": 1,
+                "ruleModel": 1
+            },
+            "rule": [{
+                "id": 18,
+                "name": "\u6307\u5b9a\u7b49\u7ea7",
+                "is_default": true
+            }, {
+                "id": 20,
+                "name": "\u6309\u5bfc\u5165\u6587\u4ef6\u3010\u7b49\u7ea7\u3011\u5b57\u6bb5\u53d8\u66f4\u7b49\u7ea7",
+                "is_default": false
+            }],
+            "action_setting": [{
+                "id": 1,
+                "name": "\u6ee1\u8db3\u591a\u6761\u89c4\u5219\u7b56\u7565",
+                "remark": null
+            }]
+        }],
+        "threshold_condition_predef_list": []
+    }
+}

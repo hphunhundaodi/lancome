@@ -1,0 +1,60 @@
+{
+    "code": 0,
+    "msg": "\u6210\u529f",
+    "data": {
+        "basic": {
+            "all_increment_member": "0",
+            "all_invite_uv": "2",
+            "all_member_uv": "3",
+            "all_new_member": "0",
+            "all_no_member_uv": "1",
+            "all_open_invited_uv": "1",
+            "all_pv": "8",
+            "all_revive_member": "0",
+            "all_uv": "4",
+            "buyer_count_today": "0",
+            "buyer_count_total": "0",
+            "increment_member": "0",
+            "invite_uv": "2",
+            "member_uv": "3",
+            "new_member": "0",
+            "no_member_uv": "1",
+            "open_invited_uv": "1",
+            "order_count_today": "0",
+            "order_count_total": "0",
+            "order_fee_sum_today": "0",
+            "order_fee_sum_total": "0",
+            "order_payment_sum_today": "0",
+            "pv": "8",
+            "revive_member": "0",
+            "uv": "4",
+            "order_payment_sum_total": "0"
+        },
+        "trend_chart": {
+            "new_member": {
+                "2019-09-02": "0"
+            },
+            "order_fee_sum_today": {
+                "2019-09-02": "0"
+            },
+            "uv": {
+                "2019-09-02": "4"
+            }
+        },
+        "activity": {
+            "id": 1567,
+            "merchant_num": 1000000,
+            "interaction_id": 0,
+            "scenario_predef_id": 29,
+            "name": "\u8001\u5e08\u6765\u4e86",
+            "begin_at": "2019-09-02 10:50:00",
+            "end_at": "2019-09-20 10:50:00",
+            "manually_end_at": 0,
+            "pic": "\/\/enbrands-2.oss-cn-shanghai.aliyuncs.com\/user\/99d1dc75ded9210ff3ebb6548f74a129.png",
+            "status": 2,
+            "scence_id": 35,
+            "ext_params": "{\"ruleText\":\"\",\"sharePic\":\"\/\/enbrands-2.oss-cn-shanghai.aliyuncs.com\/user\/3122d8a6d3449d7a995550204cdad9ab.jpg\",\"shareName\":\"\u55e8\u8d77\u6765\uff01\uff01\",\"sharePoster\":\"\/\/enbrands-2.oss-cn-shanghai.aliyuncs.com\/user\/418cb152ffa7de71e36b4498ce7ccb0b.jpg\",\"sequence\":0,\"pageId\":792}"
+        },
+        "date": "2019-09-02"
+    }
+}

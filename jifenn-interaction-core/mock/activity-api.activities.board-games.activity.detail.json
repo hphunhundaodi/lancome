@@ -1,0 +1,448 @@
+{
+    "code": 0,
+    "msg": "\u6210\u529f",
+    "data": {
+        "id": 291,
+        "name": "02009008",
+        "activity_id": 1,
+        "merchant_num": 1900088,
+        "status": 2,
+        "begin_at": "2020-02-10 20:44:52",
+        "end_at": "2020-02-29 18:41:46",
+        "settings": {
+            "integral": "5",
+            "join_limit": "20",
+            "free_chance": "5"
+        },
+        "styles": {
+            "theme": "38festival",
+            "background": "\/\/enbrands.oss-cn-shenzhen.aliyuncs.com\/travelAround\/38festival\/game_bg.png",
+            "grid_image": "\/\/enbrands.oss-cn-shenzhen.aliyuncs.com\/travelAround\/38festival\/map_item.png",
+            "load_image": "\/\/enbrands.oss-cn-shenzhen.aliyuncs.com\/travelAround\/38festival\/start_game_bg.png",
+            "color_style": "#CF5F74",
+            "rules_image": "\/\/enbrands.oss-cn-shenzhen.aliyuncs.com\/travelAround\/38festival\/rule.png",
+            "person_setting": "\/\/enbrands.oss-cn-shenzhen.aliyuncs.com\/travelAround\/brother.png",
+            "grid_count": "360"
+        },
+        "h5_url": "https:\/\/enbrands2simcoo.ews.m.jaeapp.com\/game\/brand-gallery\/index.html?merchantNum=1900088&activity_instance_id=291",
+        "activity_type": "\u54c1\u724c\u73af\u6e38",
+        "activity_instance_type": 2,
+        "prop": {
+            "banana_peel": {
+                "num": "20",
+                "name": "\u9999\u8549\u76ae",
+                "image_url": [
+                    "\/\/enbrands.oss-cn-shenzhen.aliyuncs.com\/travelAround\/38festival\/back-props.png"
+                ],
+                "id": 43520
+            },
+            "hamburger": {
+                "num": "20",
+                "name": "\u6c49\u5821\u5305",
+                "image_url": [
+                    "\/\/enbrands.oss-cn-shenzhen.aliyuncs.com\/travelAround\/38festival\/go-props.png",
+                    "\/\/enbrands-2.oss-cn-shanghai.aliyuncs.com\/ebs\/systemImg\/16.jpg",
+                    "\/\/enbrands-2.oss-cn-shanghai.aliyuncs.com\/ebs\/systemImg\/14.jpg"
+                ],
+                "id": 43519
+            }
+        },
+        "card": [
+            {
+                "url": "\/\/enbrands.oss-cn-shenzhen.aliyuncs.com\/travelAround\/card_default.png",
+                "name": "11",
+                "description": "11111",
+                "id": 43521
+            },
+            {
+                "url": "\/\/enbrands.oss-cn-shenzhen.aliyuncs.com\/travelAround\/card_default.png",
+                "name": "222",
+                "goods_id": "594023551623",
+                "description": "222",
+                "id": 43522
+            },
+            {
+                "url": "\/\/enbrands.oss-cn-shenzhen.aliyuncs.com\/travelAround\/card_default.png",
+                "name": "666",
+                "description": "666666",
+                "id": 43523
+            }
+        ],
+        "questionnaire": [
+            {
+                "answer": "111111",
+                "options": [
+                    "11",
+                    "111111"
+                ],
+                "question": "1",
+                "id": 43524
+            },
+            {
+                "answer": "22",
+                "options": [
+                    "222",
+                    "22"
+                ],
+                "question": "2",
+                "id": 43525
+            },
+            {
+                "answer": "3333",
+                "options": [
+                    "3",
+                    "3333"
+                ],
+                "question": "3",
+                "id": 43526
+            },
+            {
+                "answer": "4444",
+                "options": [
+                    "4",
+                    "4444"
+                ],
+                "question": "4",
+                "id": 43527
+            },
+            {
+                "answer": "55555",
+                "options": [
+                    "5",
+                    "55555"
+                ],
+                "question": "5",
+                "id": 43528
+            },
+            {
+                "answer": "7",
+                "options": [
+                    "6",
+                    "7"
+                ],
+                "question": "6",
+                "id": 43529
+            },
+            {
+                "answer": "2",
+                "options": [
+                    "1",
+                    "2"
+                ],
+                "question": "7",
+                "id": 43530
+            },
+            {
+                "answer": "9",
+                "options": [
+                    "8",
+                    "9"
+                ],
+                "question": "8",
+                "id": 43531
+            },
+            {
+                "answer": "0",
+                "options": [
+                    "90",
+                    "0"
+                ],
+                "question": "9",
+                "id": 43532
+            },
+            {
+                "answer": "2",
+                "options": [
+                    "1",
+                    "2"
+                ],
+                "question": "10",
+                "id": 43533
+            },
+            {
+                "answer": "2",
+                "options": [
+                    "1",
+                    "2"
+                ],
+                "question": "11",
+                "id": 43534
+            },
+            {
+                "answer": "2",
+                "options": [
+                    "1",
+                    "2"
+                ],
+                "question": "12",
+                "id": 43535
+            },
+            {
+                "answer": "2",
+                "options": [
+                    "1",
+                    "2"
+                ],
+                "question": "13",
+                "id": 43536
+            },
+            {
+                "answer": "2",
+                "options": [
+                    "1",
+                    "2"
+                ],
+                "question": "14",
+                "id": 43537
+            },
+            {
+                "answer": "2",
+                "options": [
+                    "1",
+                    "2"
+                ],
+                "question": "15",
+                "id": 43538
+            },
+            {
+                "answer": "2",
+                "options": [
+                    "1",
+                    "2"
+                ],
+                "question": "16",
+                "id": 43539
+            },
+            {
+                "answer": "2",
+                "options": [
+                    "1",
+                    "2"
+                ],
+                "question": "17",
+                "id": 43540
+            },
+            {
+                "answer": "2",
+                "options": [
+                    "1",
+                    "2"
+                ],
+                "question": "18",
+                "id": 43541
+            },
+            {
+                "answer": "2",
+                "options": [
+                    "1",
+                    "2"
+                ],
+                "question": "19",
+                "id": 43542
+            },
+            {
+                "answer": "2",
+                "options": [
+                    "1",
+                    "2"
+                ],
+                "question": "20",
+                "id": 43543
+            },
+            {
+                "answer": "2",
+                "options": [
+                    "1",
+                    "2"
+                ],
+                "question": "21",
+                "id": 43544
+            },
+            {
+                "answer": "2",
+                "options": [
+                    "1",
+                    "2"
+                ],
+                "question": "22",
+                "id": 43545
+            },
+            {
+                "answer": "2",
+                "options": [
+                    "1",
+                    "2"
+                ],
+                "question": "23",
+                "id": 43546
+            },
+            {
+                "answer": "2",
+                "options": [
+                    "1",
+                    "2"
+                ],
+                "question": "24",
+                "id": 43547
+            },
+            {
+                "answer": "2",
+                "options": [
+                    "1",
+                    "2"
+                ],
+                "question": "25",
+                "id": 43548
+            },
+            {
+                "answer": "2",
+                "options": [
+                    "1",
+                    "2"
+                ],
+                "question": "26",
+                "id": 43549
+            },
+            {
+                "answer": "2",
+                "options": [
+                    "1",
+                    "2"
+                ],
+                "question": "27",
+                "id": 43550
+            },
+            {
+                "answer": "1",
+                "options": [
+                    "1",
+                    "2"
+                ],
+                "question": "28",
+                "id": 43551
+            },
+            {
+                "answer": "2",
+                "options": [
+                    "1",
+                    "2"
+                ],
+                "question": "29",
+                "id": 43552
+            },
+            {
+                "answer": "2",
+                "options": [
+                    "1",
+                    "2"
+                ],
+                "question": "30",
+                "id": 43553
+            },
+            {
+                "answer": "2",
+                "options": [
+                    "1",
+                    "2"
+                ],
+                "question": "31",
+                "id": 43554
+            },
+            {
+                "answer": "2",
+                "options": [
+                    "1",
+                    "2"
+                ],
+                "question": "32",
+                "id": 43555
+            },
+            {
+                "answer": "2",
+                "options": [
+                    "1",
+                    "2"
+                ],
+                "question": "33",
+                "id": 43556
+            },
+            {
+                "answer": "2",
+                "options": [
+                    "1",
+                    "2"
+                ],
+                "question": "34",
+                "id": 43557
+            },
+            {
+                "answer": "2",
+                "options": [
+                    "1",
+                    "2"
+                ],
+                "question": "35",
+                "id": 43558
+            },
+            {
+                "answer": "2",
+                "options": [
+                    "1",
+                    "2"
+                ],
+                "question": "36",
+                "id": 43559
+            },
+            {
+                "answer": "2",
+                "options": [
+                    "1",
+                    "2"
+                ],
+                "question": "37",
+                "id": 43560
+            },
+            {
+                "answer": "2",
+                "options": [
+                    "1",
+                    "2"
+                ],
+                "question": "38",
+                "id": 43561
+            },
+            {
+                "answer": "2",
+                "options": [
+                    "1",
+                    "2"
+                ],
+                "question": "39",
+                "id": 43562
+            },
+            {
+                "answer": "2",
+                "options": [
+                    "1",
+                    "2"
+                ],
+                "question": "40",
+                "id": 43563
+            }
+        ],
+        "reward_rules": [
+            {
+                "card_num": "2",
+                "id": 258,
+                "reward_id": 257,
+                "relative_reward_id": 900019,
+                "total_stock": 42,
+                "remaining_stock": 12,
+                "reward_name": "0207001-001",
+                "status": 1,
+                "gift_availabled": 200
+            }
+        ]
+    },
+    "sub_code": ""
+}

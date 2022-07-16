@@ -1,0 +1,18 @@
+{
+    "code": 0,
+    "msg": "成功",
+    "data": {
+        "update_info":"",
+        "update_inf": {
+            "id": 699,
+            "merchant_num": 1000012,
+            "title": "标题",
+            "content": "ghffdgdqFG",
+            "type": 1,
+            "status": 1,
+            "created_at": "2018-03-01 16:59:57",
+            "updated_at": "2018-03-01 16:59:57"
+        },
+        "other_info": []
+    }
+}

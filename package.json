@@ -1,0 +1,62 @@
+{
+	"name": "@jifenn/0-yuan-trial-back",
+	"version": "0.1.0",
+	"main": "src/config.js",
+	"private": true,
+	"scripts": {
+		"serve": "vue-cli-service serve",
+		"build": "vue-cli-service build",
+		"build1": "npx vue-cli-service build --target lib --name myLib --entry ./src/config.js",
+		"lint": "vue-cli-service lint"
+	},
+	"dependencies": {
+		"loadsh": "0.0.4"
+	},
+	"devDependencies": {
+		"@jifenn/enbrands-interaction-dev-tool": "git+ssh://git@git.dev.enbrands.com:interaction-market-cloud/FED/enbrands-interaction/enbrands-interaction-dev-tool.git#master",
+		"@jifenn/enbrands-interaction-tools": "git+ssh://git@git.dev.enbrands.com/taobaominiapp/frame/public/enbrands/enbrands-interaction-tools.git#v1.2.16",
+		"@vue/cli-plugin-babel": "^4.5.10",
+		"@vue/cli-plugin-eslint": "^4.5.0",
+		"@vue/cli-service": "^4.5.0",
+		"axios": "^0.21.0",
+		"babel-eslint": "^10.1.0",
+		"core-js": "^3.6.5",
+		"es6-promise": "^4.2.8",
+		"eslint": "^6.7.2",
+		"eslint-plugin-vue": "^6.2.2",
+		"less": "^3.12.2",
+		"less-loader": "^7.0.2",
+		"moment": "^2.29.1",
+		"vue": "^2.6.11",
+		"vue-router": "^3.4.7",
+		"vue-template-compiler": "^2.6.11",
+		"vuex": "^3.6.0",
+		"wangeditor": "^4.4.0"
+	},
+	"eslintConfig": {
+		"root": true,
+		"globals": {
+			"$$ENV": true,
+			"echarts": true
+		},
+		"env": {
+			"node": true
+		},
+		"extends": [
+			"plugin:vue/essential",
+			"eslint:recommended"
+		],
+		"parserOptions": {
+			"parser": "babel-eslint"
+		},
+		"rules": {
+			"no-debugger": "off",
+			"no-unused-vars": "off"
+		}
+	},
+	"browserslist": [
+		"> 1%",
+		"last 2 versions",
+		"not dead"
+	]
+}

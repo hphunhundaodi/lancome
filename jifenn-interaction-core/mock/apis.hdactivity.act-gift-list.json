@@ -1,0 +1,66 @@
+{
+    "code": 0,
+    "msg": "成功",
+    "data": {
+        "list": [
+            {
+                "id": 1,
+                "gift_id": 900001,
+                "title": "test",
+                "pic_url": "https://img.alicdn.com/bao/uploaded/i2/726347798/TB2IYEPsVXXXXcyXpXXXXXXXXXX_!!726347798.gif?x-oss-process=style/imagespace-preview",
+                "type_id": "800200",
+                "type_name": "淘宝优惠券",
+                "expire_type": 2,
+                "eff_date": "2020-11-12 12:00:00",
+                "exp_data": "2020-11-12 12:00:00",
+                "created_at": "2020-11-12 12:00:00",
+                "total_num": 100,
+                "available_num": 200,
+                "gift_status": 6
+            },
+            {
+                "id": 2,
+                "gift_id": 900002,
+                "title": "test",
+                "pic_url": "https://img.alicdn.com/bao/uploaded/i2/726347798/TB2IYEPsVXXXXcyXpXXXXXXXXXX_!!726347798.gif?x-oss-process=style/imagespace-preview",
+                "type_id": "800200",
+                "type_name": "淘宝优惠券",
+                "expire_type": 1,
+                "eff_date": "2020-11-12 12:00:00",
+                "exp_data": "2020-11-12 12:00:00",
+                "created_at": "2020-11-12 12:00:00",
+                "total_num": 100,
+                "available_num": 200,
+                "gift_status": 6
+            },{
+                "id": 3,
+                "gift_id": 900003,
+                "title": "test",
+                "pic_url": "https://img.alicdn.com/bao/uploaded/i2/726347798/TB2IYEPsVXXXXcyXpXXXXXXXXXX_!!726347798.gif?x-oss-process=style/imagespace-preview",
+                "type_id": "800200",
+                "type_name": "淘宝优惠券",
+                "expire_type": 2,
+                "eff_date": "2020-11-12 12:00:00",
+                "exp_data": "2020-11-12 12:00:00",
+                "created_at": "2020-11-12 12:00:00",
+                "total_num": 100,
+                "available_num": 200,
+                "gift_status": 6
+            },{
+                "id": 4,
+                "gift_id": 900004,
+                "title": "test",
+                "pic_url": "https://img.alicdn.com/bao/uploaded/i2/726347798/TB2IYEPsVXXXXcyXpXXXXXXXXXX_!!726347798.gif?x-oss-process=style/imagespace-preview",
+                "type_id": "800200",
+                "type_name": "淘宝优惠券",
+                "expire_type": 1,
+                "eff_date": "2020-11-12 12:00:00",
+                "exp_data": "2020-11-12 12:00:00",
+                "created_at": "2020-11-12 12:00:00",
+                "total_num": 100,
+                "available_num": 200,
+                "gift_status": 6
+            }
+        ]
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "code": 0,
+    "msg": "成功",
+    "data": {
+        "count": 2,
+        "page_num": 1,
+        "page_size": 10,
+        "list": [
+            {
+                "id": 1,
+                "nick": "test",
+                "phone": "15623459809",
+                "created_at": "2020-11-12 12: 00: 00"
+            },
+            {
+                "id": 2,
+                "nick": "test1",
+                "phone": "15623459209",
+                "created_at": "2020-11-12 11: 00: 00"
+            }
+        ]
+    }
+}

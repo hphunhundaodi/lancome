@@ -1,0 +1,20 @@
+{
+    "code": 0,
+    "msg": "成功",
+    "data": {
+        "count": 100,
+        "list": [
+            {
+                "member_id":"会员id",
+                "platform_open_id": "混淆昵称",
+                "nick": "明文昵称",
+                "phone": "18888888888",
+                "updated_at": "2020-03-09 11:22:33",
+                "draw_count": "88",
+                "log_count": "99"
+            }
+        ],
+        "page_num": 20,
+        "page_size": 10
+    }
+}

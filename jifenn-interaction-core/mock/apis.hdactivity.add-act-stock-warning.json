@@ -1,0 +1,14 @@
+{
+    "code": 0,
+    "msg": "成功",
+    "data": {
+        "is_active": 1,
+        "limit": {
+            "solid": 10,
+            "percentage": 0
+        },
+        "phones": [
+            "17727804865"
+        ]
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "code": 0,
+    "msg": "成功",
+    "data": {
+        "page_num": "1",
+        "page_size": "5",
+        "count": 12,
+        "list": [{
+            "id": 4,
+            "merchant_num": 1000012,
+            "type": 4,
+            "name": "测试添加事件关怀1111",
+            "scenario_id": 1,
+            "start_time": "2018-01-18 16:40:10",
+            "end_time": "2018-02-19 16:40:10",
+            "ext_params": "",
+            "inst_config_info": "",
+            "status": 1,
+            "remarks": "0",
+            "created_at": "2018-01-18 16:51:32",
+            "updated_at": "2018-01-18 16:51:32"
+        }, {
+            "id": 8,
+            "merchant_num": 1000012,
+            "type": 1,
+            "name": "事件关怀1",
+            "scenario_id": 1,
+            "start_time": "2018-01-18 16:40:10",
+            "end_time": "2018-01-19 16:40:10",
+            "ext_params": "",
+            "inst_config_info": null,
+            "status": 1,
+            "remarks": "0",
+            "created_at": "2018-01-19 09:49:56",
+            "updated_at": "2018-01-19 09:49:56"
+        }, {
+            "id": 9,
+            "merchant_num": 1000012,
+            "type": 1,
+            "name": "事件关怀1",
+            "scenario_id": 1,
+            "start_time": "2018-01-18 16:40:10",
+            "end_time": "2018-01-19 16:40:10",
+            "ext_params": "",
+            "inst_config_info": null,
+            "status": 1,
+            "remarks": "0",
+            "created_at": "2018-01-19 09:52:31",
+            "updated_at": "2018-01-19 09:52:31"
+        }, {
+            "id": 10,
+            "merchant_num": 1000012,
+            "type": 1,
+            "name": "事件关怀1",
+            "scenario_id": 1,
+            "start_time": "2018-01-18 16:40:10",
+            "end_time": "2018-01-19 16:40:10",
+            "ext_params": "",
+            "inst_config_info": null,
+            "status": 1,
+            "remarks": "0",
+            "created_at": "2018-01-19 09:53:33",
+            "updated_at": "2018-01-19 09:53:33"
+        }, {
+            "id": 11,
+            "merchant_num": 1000012,
+            "type": 4,
+            "name": "事件关怀1",
+            "scenario_id": 1,
+            "start_time": "2018-01-18 16:40:10",
+            "end_time": "2018-01-19 16:40:10",
+            "ext_params": "",
+            "inst_config_info": "",
+            "status": 1,
+            "remarks": "0",
+            "created_at": "2018-01-19 09:55:05",
+            "updated_at": "2018-01-19 09:55:05"
+        }]
+    }
+}

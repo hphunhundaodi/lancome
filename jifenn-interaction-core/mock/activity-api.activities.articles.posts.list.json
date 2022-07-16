@@ -1,0 +1,62 @@
+{
+    "code": 0,
+    "msg": "成功",
+    "data": {
+        "title": "我是文章的标题123456789",
+        "policyList": [
+            {
+                "id": 1,
+                "name": "策略名称1",
+                "status": 1,
+                "crowds_num": 2,
+                "total_num": 555,
+                "create_at": "2019-05-15 16:08"
+            },
+            {
+                "id": 2,
+                "name": "策略名称2",
+                "status": 1,
+                "crowds_num": 3,
+                "total_num": 555,
+                "create_at": "2019-05-15 16:08"
+            },
+            {
+                "id": 3,
+                "name": "策略名称3",
+                "status": 1,
+                "crowds_num": 2,
+                "total_num": 555,
+                "create_at": "2019-05-15 16:08"
+            },
+            {
+                "id": 4,
+                "name": "策略名称4",
+                "status": 1,
+                "crowds_num": 2,
+                "total_num": 555,
+                "create_at": "2019-05-15 16:08"
+            },
+            {
+                "id": 5,
+                "name": "策略名称5",
+                "status": 1,
+                "crowds_num": 3,
+                "total_num": 555,
+                "create_at": "2019-05-15 16:08"
+            },
+            {
+                "id": 7,
+                "name": "策略名称7",
+                "status": 1,
+                "crowds_num": 2,
+                "total_num": 555,
+                "create_at": "2019-05-15 16:08"
+            }
+        ],
+        "total": 20,
+        "page_size": 10,
+        "page": 1,
+        "last_page": 1
+    },
+    "sub_code": ""
+}

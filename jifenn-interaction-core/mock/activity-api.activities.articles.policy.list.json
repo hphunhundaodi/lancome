@@ -1,0 +1,71 @@
+{
+    "code": 0,
+    "msg": "成功",
+    "data": {
+        "policyList": [
+            {
+                "id": 6,
+                "name": "策略投放名称1",
+                "status": 1,
+                "create_at": "2019-05-15 16:08",
+                "crowds_num": 2,
+                "posts_num": 22,
+                "total_num": 555,
+                "description": "备注1"
+            },
+            {
+                "id": 5,
+                "name": "策略投放名称2",
+                "status": 0,
+                "create_at": "2019-05-15 16:08",
+                "crowds_num": 3,
+                "posts_num": 14,
+                "total_num": 666,
+                "description": "备注2"
+            },
+            {
+                "id": 4,
+                "name": "策略投放名称3",
+                "status": 1,
+                "create_at": "2019-05-15 16:08",
+                "crowds_num": 1,
+                "posts_num": 5,
+                "total_num": 222,
+                "description": "备注3"
+            },
+            {
+                "id": 1,
+                "name": "策略投放名称4",
+                "status": 1,
+                "create_at": "2019-05-15 16:08",
+                "crowds_num": 2,
+                "posts_num": 22,
+                "total_num": 555,
+                "description": "备注1"
+            },
+            {
+                "id": 2,
+                "name": "策略投放名称5",
+                "status": 0,
+                "create_at": "2019-05-15 16:08",
+                "crowds_num": 3,
+                "posts_num": 14,
+                "total_num": 666,
+                "description": "备注2"
+            },
+            {
+                "id": 3,
+                "name": "策略投放名称6",
+                "status": 1,
+                "create_at": "2019-05-15 16:08",
+                "crowds_num": 1,
+                "posts_num": 5,
+                "total_num": 222,
+                "description": "备注3"
+            }
+        ]
+    },
+    "total": 20,
+    "page_size": 10,
+    "page": 1
+}

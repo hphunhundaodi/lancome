@@ -1,0 +1,19 @@
+{
+    "code":0,
+    "data":{
+        "all_draw_member":1,
+        "all_grant_gift_num":1,
+        "gift_list":{
+            "9000104":{
+                "grant_num":1,
+                "total_stock":2,
+                "remaining_stock":1,
+                "basic":{
+                    "gift_id":9000104,
+                    "name":"测试",
+                    "pic_url":"xx"
+                }
+            }
+        }
+    }
+}

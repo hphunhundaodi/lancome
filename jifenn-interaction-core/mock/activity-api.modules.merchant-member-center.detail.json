@@ -1,0 +1,19 @@
+{
+    "code": 0,
+    "msg": "\u6210\u529f",
+    "data": {
+        "center_url": "http:\/\/www.2122122.com",
+        "card_image": "\/\/enbrands-2.oss-cn-shanghai.aliyuncs.com\/user\/e9317d59c586d5083520347a4560c1c5.png",
+        "posters": [
+            {
+                "url": "",
+                "image": "\/\/enbrands-2.oss-cn-shanghai.aliyuncs.com\/user\/7b46bf9788b49e231d81fecba136f2e8.png"
+            },
+            {
+                "image": "\/\/enbrands-2.oss-cn-shanghai.aliyuncs.com\/user\/1c2b44e67b73ff8ee4cf68dd86ea3b47.png",
+                "url": ""
+            }
+        ]
+    },
+    "sub_code": ""
+}

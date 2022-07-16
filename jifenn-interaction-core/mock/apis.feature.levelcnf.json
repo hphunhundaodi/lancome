@@ -1,0 +1,46 @@
+{
+    "code": 0,
+    "msg": "\u6210\u529f",
+    "data": {
+        "merchant_name": "bigbrother12",
+        "level": [{
+            "id": 1,
+            "name": "lv1",
+            "icon_url": "",
+            "level": 1,
+            "open_platform_level": ""
+        }, {
+            "id": 2,
+            "name": "lv2",
+            "icon_url": "",
+            "level": 2,
+            "open_platform_level": ""
+        }, {
+            "id": 3,
+            "name": "lv3",
+            "icon_url": "",
+            "level": 3,
+            "open_platform_level": ""
+        }, {
+            "id": 4,
+            "name": "lv4",
+            "icon_url": "",
+            "level": 4,
+            "open_platform_level": ""
+        }, {
+            "id": 5,
+            "name": "lv5",
+            "icon_url": "",
+            "level": 5,
+            "open_platform_level": ""
+        }, {
+            "id": 6,
+            "name": "lv6",
+            "icon_url": "",
+            "level": 6,
+            "open_platform_level": ""
+        }],
+        "if_unify": 0,
+        "use_platform_level": 0
+    }
+}

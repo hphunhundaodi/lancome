@@ -1,0 +1,32 @@
+{
+    "code": 0,
+    "msg": "成功",
+    "data": {
+        "list": [
+            {
+                "nick": "云雷000000",
+                "platform_open_id": "云01NareWBD4LJZZqQaIabQl/wKHM0CMIQafAKaTQc17qGM=",
+                "created_at": "2020-04-07 16:42:16",
+                "phone": "12321789213"
+            },
+            {
+                "nick": "11111",
+                "platform_open_id": "1203123219301/wKHM0CMIQafAKaTQc17qGM=",
+                "created_at": "2020-04-07 16:42:16",
+                "phone": "99999"
+            },
+            {
+                "nick": "22222",
+                "platform_open_id": "dfadkjldfd/wKHM0CMIQafAKaTQc17qGM=",
+                "created_at": "2020-04-07 16:42:16",
+                "phone": "66666"
+            }
+        ],
+        "total": 1,
+        "page_size": "10",
+        "page": 1,
+        "last_page": 1,
+        "activity_name": "活动名称啊"
+    },
+    "sub_code": ""
+}

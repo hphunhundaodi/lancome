@@ -1,0 +1,62 @@
+{
+    "code": 0,
+    "msg": "成功",
+    "data": {
+        "rule_predef_list": [
+            [{
+                "id": 50,
+                "name": "批量发送短信",
+                "condition_list": "",
+                "description": "批量发送短信",
+                "is_default": 1
+            }]
+        ],
+        "threshold_condition_predef_list": [{
+            "id": 80,
+            "name": "会员等级",
+            "type": 2
+        }, {
+            "id": 81,
+            "name": "指定天数后发送关怀短信",
+            "type": 2
+        }, {
+            "id": 82,
+            "name": "订单总笔数",
+            "type": 2
+        }],
+        "data": {
+            "rules": [{
+                "id": 101,
+                "condition": [{
+                    "id": 101,
+                    "value": 10,
+                    "data": {
+                        "value": 10
+                    }
+                }],
+                "data": {
+                    "msg": "成功"
+                }
+            }],
+            "thresholds": [{
+                "id": 6,
+                "name": "订单总数",
+                "data": {
+                    "type": 0
+                }
+            }, {
+                "id": 7,
+                "name": "会员等级",
+                "data": {
+                    "value": [1, 2]
+                }
+            }, {
+                "id": 8,
+                "name": "休眠周期",
+                "data": {
+                    "type": 0
+                }
+            }]
+        }
+    }
+}

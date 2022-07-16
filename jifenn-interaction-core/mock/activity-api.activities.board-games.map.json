@@ -1,0 +1,2069 @@
+{
+    "code": 0,
+    "msg": "\u6210\u529f",
+    "data": {
+        "grid_info": [
+            {
+                "num": 0,
+                "type": "Start",
+                "prop_id": 0,
+                "abscissa": 0,
+                "ordinate": 0,
+                "direction": "left",
+                "prop_type": "blank",
+                "next_direction": "left"
+            },
+            {
+                "num": 1,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 1,
+                "ordinate": 0,
+                "direction": "left",
+                "prop_type": "blank",
+                "next_direction": "Left"
+            },
+            {
+                "num": 2,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 2,
+                "ordinate": 0,
+                "direction": "Left",
+                "prop_type": "blank",
+                "next_direction": "Up"
+            },
+            {
+                "num": 3,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 2,
+                "ordinate": 1,
+                "direction": "Up",
+                "prop_type": "blank",
+                "next_direction": "LeftTurn"
+            },
+            {
+                "num": 4,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 2,
+                "ordinate": 2,
+                "direction": "LeftTurn",
+                "prop_type": "blank",
+                "next_direction": "Left"
+            },
+            {
+                "num": 5,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 3,
+                "ordinate": 2,
+                "direction": "Left",
+                "prop_type": "blank",
+                "next_direction": "Left"
+            },
+            {
+                "num": 6,
+                "type": "Normal",
+                "prop_id": 86,
+                "abscissa": 4,
+                "ordinate": 2,
+                "direction": "Left",
+                "prop_type": "questionnaire",
+                "next_direction": "Up"
+            },
+            {
+                "num": 7,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 4,
+                "ordinate": 3,
+                "direction": "Up",
+                "prop_type": "blank",
+                "next_direction": "RightTurn"
+            },
+            {
+                "num": 8,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 4,
+                "ordinate": 4,
+                "direction": "RightTurn",
+                "prop_type": "blank",
+                "next_direction": "Right"
+            },
+            {
+                "num": 9,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 3,
+                "ordinate": 4,
+                "direction": "Right",
+                "prop_type": "blank",
+                "next_direction": "Right"
+            },
+            {
+                "num": 10,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 2,
+                "ordinate": 4,
+                "direction": "Right",
+                "prop_type": "blank",
+                "next_direction": "Right"
+            },
+            {
+                "num": 11,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 1,
+                "ordinate": 4,
+                "direction": "Right",
+                "prop_type": "blank",
+                "next_direction": "Right"
+            },
+            {
+                "num": 12,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 0,
+                "ordinate": 4,
+                "direction": "Right",
+                "prop_type": "blank",
+                "next_direction": "Up"
+            },
+            {
+                "num": 13,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 0,
+                "ordinate": 5,
+                "direction": "Up",
+                "prop_type": "blank",
+                "next_direction": "LeftTurn"
+            },
+            {
+                "num": 14,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 0,
+                "ordinate": 6,
+                "direction": "LeftTurn",
+                "prop_type": "blank",
+                "next_direction": "Left"
+            },
+            {
+                "num": 15,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 1,
+                "ordinate": 6,
+                "direction": "Left",
+                "prop_type": "blank",
+                "next_direction": "Left"
+            },
+            {
+                "num": 16,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 2,
+                "ordinate": 6,
+                "direction": "Left",
+                "prop_type": "blank",
+                "next_direction": "Left"
+            },
+            {
+                "num": 17,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 3,
+                "ordinate": 6,
+                "direction": "Left",
+                "prop_type": "blank",
+                "next_direction": "Left"
+            },
+            {
+                "num": 18,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 4,
+                "ordinate": 6,
+                "direction": "Left",
+                "prop_type": "blank",
+                "next_direction": "Up"
+            },
+            {
+                "num": 19,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 4,
+                "ordinate": 7,
+                "direction": "Up",
+                "prop_type": "blank",
+                "next_direction": "Up"
+            },
+            {
+                "num": 20,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 4,
+                "ordinate": 8,
+                "direction": "Up",
+                "prop_type": "blank",
+                "next_direction": "RightTurn"
+            },
+            {
+                "num": 21,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 4,
+                "ordinate": 9,
+                "direction": "RightTurn",
+                "prop_type": "blank",
+                "next_direction": "Right"
+            },
+            {
+                "num": 22,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 3,
+                "ordinate": 9,
+                "direction": "Right",
+                "prop_type": "blank",
+                "next_direction": "Right"
+            },
+            {
+                "num": 23,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 2,
+                "ordinate": 9,
+                "direction": "Right",
+                "prop_type": "blank",
+                "next_direction": "RightTurn"
+            },
+            {
+                "num": 24,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 2,
+                "ordinate": 10,
+                "direction": "RightTurn",
+                "prop_type": "blank",
+                "next_direction": "Right"
+            },
+            {
+                "num": 25,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 1,
+                "ordinate": 10,
+                "direction": "Right",
+                "prop_type": "blank",
+                "next_direction": "Right"
+            },
+            {
+                "num": 26,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 0,
+                "ordinate": 10,
+                "direction": "Right",
+                "prop_type": "blank",
+                "next_direction": "Up"
+            },
+            {
+                "num": 27,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 0,
+                "ordinate": 11,
+                "direction": "Up",
+                "prop_type": "blank",
+                "next_direction": "Up"
+            },
+            {
+                "num": 28,
+                "type": "Normal",
+                "prop_id": 83,
+                "abscissa": 0,
+                "ordinate": 12,
+                "direction": "Up",
+                "prop_type": "hamburger",
+                "next_direction": "LeftTurn"
+            },
+            {
+                "num": 29,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 0,
+                "ordinate": 13,
+                "direction": "LeftTurn",
+                "prop_type": "blank",
+                "next_direction": "Left"
+            },
+            {
+                "num": 30,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 1,
+                "ordinate": 13,
+                "direction": "Left",
+                "prop_type": "blank",
+                "next_direction": "Left"
+            },
+            {
+                "num": 31,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 2,
+                "ordinate": 13,
+                "direction": "Left",
+                "prop_type": "blank",
+                "next_direction": "Up"
+            },
+            {
+                "num": 32,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 2,
+                "ordinate": 14,
+                "direction": "Up",
+                "prop_type": "blank",
+                "next_direction": "LeftTurn"
+            },
+            {
+                "num": 33,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 2,
+                "ordinate": 15,
+                "direction": "LeftTurn",
+                "prop_type": "blank",
+                "next_direction": "Left"
+            },
+            {
+                "num": 34,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 3,
+                "ordinate": 15,
+                "direction": "Left",
+                "prop_type": "blank",
+                "next_direction": "Left"
+            },
+            {
+                "num": 35,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 4,
+                "ordinate": 15,
+                "direction": "Left",
+                "prop_type": "blank",
+                "next_direction": "Up"
+            },
+            {
+                "num": 36,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 4,
+                "ordinate": 16,
+                "direction": "Up",
+                "prop_type": "blank",
+                "next_direction": "Up"
+            },
+            {
+                "num": 37,
+                "type": "Normal",
+                "prop_id": 84,
+                "abscissa": 4,
+                "ordinate": 17,
+                "direction": "Up",
+                "prop_type": "banana_peel",
+                "next_direction": "RightTurn"
+            },
+            {
+                "num": 38,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 4,
+                "ordinate": 18,
+                "direction": "RightTurn",
+                "prop_type": "blank",
+                "next_direction": "Right"
+            },
+            {
+                "num": 39,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 3,
+                "ordinate": 18,
+                "direction": "Right",
+                "prop_type": "blank",
+                "next_direction": "Right"
+            },
+            {
+                "num": 40,
+                "type": "Normal",
+                "prop_id": 83,
+                "abscissa": 2,
+                "ordinate": 18,
+                "direction": "Right",
+                "prop_type": "hamburger",
+                "next_direction": "RightTurn"
+            },
+            {
+                "num": 41,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 2,
+                "ordinate": 19,
+                "direction": "RightTurn",
+                "prop_type": "blank",
+                "next_direction": "Right"
+            },
+            {
+                "num": 42,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 1,
+                "ordinate": 19,
+                "direction": "Right",
+                "prop_type": "blank",
+                "next_direction": "Right"
+            },
+            {
+                "num": 43,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 0,
+                "ordinate": 19,
+                "direction": "Right",
+                "prop_type": "blank",
+                "next_direction": "Up"
+            },
+            {
+                "num": 44,
+                "type": "Normal",
+                "prop_id": 84,
+                "abscissa": 0,
+                "ordinate": 20,
+                "direction": "Up",
+                "prop_type": "banana_peel",
+                "next_direction": "Up"
+            },
+            {
+                "num": 45,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 0,
+                "ordinate": 21,
+                "direction": "Up",
+                "prop_type": "blank",
+                "next_direction": "LeftTurn"
+            },
+            {
+                "num": 46,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 0,
+                "ordinate": 22,
+                "direction": "LeftTurn",
+                "prop_type": "blank",
+                "next_direction": "Left"
+            },
+            {
+                "num": 47,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 1,
+                "ordinate": 22,
+                "direction": "Left",
+                "prop_type": "blank",
+                "next_direction": "Left"
+            },
+            {
+                "num": 48,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 2,
+                "ordinate": 22,
+                "direction": "Left",
+                "prop_type": "blank",
+                "next_direction": "LeftTurn"
+            },
+            {
+                "num": 49,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 2,
+                "ordinate": 23,
+                "direction": "LeftTurn",
+                "prop_type": "blank",
+                "next_direction": "Left"
+            },
+            {
+                "num": 50,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 3,
+                "ordinate": 23,
+                "direction": "Left",
+                "prop_type": "blank",
+                "next_direction": "Left"
+            },
+            {
+                "num": 51,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 4,
+                "ordinate": 23,
+                "direction": "Left",
+                "prop_type": "blank",
+                "next_direction": "Up"
+            },
+            {
+                "num": 52,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 4,
+                "ordinate": 24,
+                "direction": "Up",
+                "prop_type": "blank",
+                "next_direction": "Up"
+            },
+            {
+                "num": 53,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 4,
+                "ordinate": 25,
+                "direction": "Up",
+                "prop_type": "blank",
+                "next_direction": "RightTurn"
+            },
+            {
+                "num": 54,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 4,
+                "ordinate": 26,
+                "direction": "RightTurn",
+                "prop_type": "blank",
+                "next_direction": "Right"
+            },
+            {
+                "num": 55,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 3,
+                "ordinate": 26,
+                "direction": "Right",
+                "prop_type": "blank",
+                "next_direction": "Right"
+            },
+            {
+                "num": 56,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 2,
+                "ordinate": 26,
+                "direction": "Right",
+                "prop_type": "blank",
+                "next_direction": "Up"
+            },
+            {
+                "num": 57,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 2,
+                "ordinate": 27,
+                "direction": "Up",
+                "prop_type": "blank",
+                "next_direction": "Up"
+            },
+            {
+                "num": 58,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 2,
+                "ordinate": 28,
+                "direction": "Up",
+                "prop_type": "blank",
+                "next_direction": "RightTurn"
+            },
+            {
+                "num": 59,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 2,
+                "ordinate": 29,
+                "direction": "RightTurn",
+                "prop_type": "blank",
+                "next_direction": "Right"
+            },
+            {
+                "num": 60,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 1,
+                "ordinate": 29,
+                "direction": "Right",
+                "prop_type": "blank",
+                "next_direction": "Right"
+            },
+            {
+                "num": 61,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 0,
+                "ordinate": 29,
+                "direction": "Right",
+                "prop_type": "blank",
+                "next_direction": "Up"
+            },
+            {
+                "num": 62,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 0,
+                "ordinate": 30,
+                "direction": "Up",
+                "prop_type": "blank",
+                "next_direction": "Up"
+            },
+            {
+                "num": 63,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 0,
+                "ordinate": 31,
+                "direction": "Up",
+                "prop_type": "blank",
+                "next_direction": "LeftTurn"
+            },
+            {
+                "num": 64,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 0,
+                "ordinate": 32,
+                "direction": "LeftTurn",
+                "prop_type": "blank",
+                "next_direction": "Left"
+            },
+            {
+                "num": 65,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 1,
+                "ordinate": 32,
+                "direction": "Left",
+                "prop_type": "blank",
+                "next_direction": "Left"
+            },
+            {
+                "num": 66,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 2,
+                "ordinate": 32,
+                "direction": "Left",
+                "prop_type": "blank",
+                "next_direction": "Left"
+            },
+            {
+                "num": 67,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 3,
+                "ordinate": 32,
+                "direction": "Left",
+                "prop_type": "blank",
+                "next_direction": "Left"
+            },
+            {
+                "num": 68,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 4,
+                "ordinate": 32,
+                "direction": "Left",
+                "prop_type": "blank",
+                "next_direction": "Up"
+            },
+            {
+                "num": 69,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 4,
+                "ordinate": 33,
+                "direction": "Up",
+                "prop_type": "blank",
+                "next_direction": "RightTurn"
+            },
+            {
+                "num": 70,
+                "type": "Normal",
+                "prop_id": 85,
+                "abscissa": 4,
+                "ordinate": 34,
+                "direction": "RightTurn",
+                "prop_type": "card",
+                "next_direction": "Right"
+            },
+            {
+                "num": 71,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 3,
+                "ordinate": 34,
+                "direction": "Right",
+                "prop_type": "blank",
+                "next_direction": "Right"
+            },
+            {
+                "num": 72,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 2,
+                "ordinate": 34,
+                "direction": "Right",
+                "prop_type": "blank",
+                "next_direction": "Right"
+            },
+            {
+                "num": 73,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 1,
+                "ordinate": 34,
+                "direction": "Right",
+                "prop_type": "blank",
+                "next_direction": "Right"
+            },
+            {
+                "num": 74,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 0,
+                "ordinate": 34,
+                "direction": "Right",
+                "prop_type": "blank",
+                "next_direction": "Up"
+            },
+            {
+                "num": 75,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 0,
+                "ordinate": 35,
+                "direction": "Up",
+                "prop_type": "blank",
+                "next_direction": "LeftTurn"
+            },
+            {
+                "num": 76,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 0,
+                "ordinate": 36,
+                "direction": "LeftTurn",
+                "prop_type": "blank",
+                "next_direction": "Left"
+            },
+            {
+                "num": 77,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 1,
+                "ordinate": 36,
+                "direction": "Left",
+                "prop_type": "blank",
+                "next_direction": "Left"
+            },
+            {
+                "num": 78,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 2,
+                "ordinate": 36,
+                "direction": "Left",
+                "prop_type": "blank",
+                "next_direction": "Left"
+            },
+            {
+                "num": 79,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 3,
+                "ordinate": 36,
+                "direction": "Left",
+                "prop_type": "blank",
+                "next_direction": "Left"
+            },
+            {
+                "num": 80,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 4,
+                "ordinate": 36,
+                "direction": "Left",
+                "prop_type": "blank",
+                "next_direction": "Up"
+            },
+            {
+                "num": 81,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 4,
+                "ordinate": 37,
+                "direction": "Up",
+                "prop_type": "blank",
+                "next_direction": "RightTurn"
+            },
+            {
+                "num": 82,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 4,
+                "ordinate": 38,
+                "direction": "RightTurn",
+                "prop_type": "blank",
+                "next_direction": "Right"
+            },
+            {
+                "num": 83,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 3,
+                "ordinate": 38,
+                "direction": "Right",
+                "prop_type": "blank",
+                "next_direction": "Right"
+            },
+            {
+                "num": 84,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 2,
+                "ordinate": 38,
+                "direction": "Right",
+                "prop_type": "blank",
+                "next_direction": "Right"
+            },
+            {
+                "num": 85,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 1,
+                "ordinate": 38,
+                "direction": "Right",
+                "prop_type": "blank",
+                "next_direction": "Right"
+            },
+            {
+                "num": 86,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 0,
+                "ordinate": 38,
+                "direction": "Right",
+                "prop_type": "blank",
+                "next_direction": "Up"
+            },
+            {
+                "num": 87,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 0,
+                "ordinate": 39,
+                "direction": "Up",
+                "prop_type": "blank",
+                "next_direction": "Up"
+            },
+            {
+                "num": 88,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 0,
+                "ordinate": 40,
+                "direction": "Up",
+                "prop_type": "blank",
+                "next_direction": "LeftTurn"
+            },
+            {
+                "num": 89,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 0,
+                "ordinate": 41,
+                "direction": "LeftTurn",
+                "prop_type": "blank",
+                "next_direction": "Left"
+            },
+            {
+                "num": 90,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 1,
+                "ordinate": 41,
+                "direction": "Left",
+                "prop_type": "blank",
+                "next_direction": "Left"
+            },
+            {
+                "num": 91,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 2,
+                "ordinate": 41,
+                "direction": "Left",
+                "prop_type": "blank",
+                "next_direction": "Left"
+            },
+            {
+                "num": 92,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 3,
+                "ordinate": 41,
+                "direction": "Left",
+                "prop_type": "blank",
+                "next_direction": "Left"
+            },
+            {
+                "num": 93,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 4,
+                "ordinate": 41,
+                "direction": "Left",
+                "prop_type": "blank",
+                "next_direction": "Up"
+            },
+            {
+                "num": 94,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 4,
+                "ordinate": 42,
+                "direction": "Up",
+                "prop_type": "blank",
+                "next_direction": "Up"
+            },
+            {
+                "num": 95,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 4,
+                "ordinate": 43,
+                "direction": "Up",
+                "prop_type": "blank",
+                "next_direction": "RightTurn"
+            },
+            {
+                "num": 96,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 4,
+                "ordinate": 44,
+                "direction": "RightTurn",
+                "prop_type": "blank",
+                "next_direction": "Right"
+            },
+            {
+                "num": 97,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 3,
+                "ordinate": 44,
+                "direction": "Right",
+                "prop_type": "blank",
+                "next_direction": "Right"
+            },
+            {
+                "num": 98,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 2,
+                "ordinate": 44,
+                "direction": "Right",
+                "prop_type": "blank",
+                "next_direction": "RightTurn"
+            },
+            {
+                "num": 99,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 2,
+                "ordinate": 45,
+                "direction": "RightTurn",
+                "prop_type": "blank",
+                "next_direction": "Right"
+            },
+            {
+                "num": 100,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 1,
+                "ordinate": 45,
+                "direction": "Right",
+                "prop_type": "blank",
+                "next_direction": "Right"
+            },
+            {
+                "num": 101,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 0,
+                "ordinate": 45,
+                "direction": "Right",
+                "prop_type": "blank",
+                "next_direction": "Up"
+            },
+            {
+                "num": 102,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 0,
+                "ordinate": 46,
+                "direction": "Up",
+                "prop_type": "blank",
+                "next_direction": "Up"
+            },
+            {
+                "num": 103,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 0,
+                "ordinate": 47,
+                "direction": "Up",
+                "prop_type": "blank",
+                "next_direction": "LeftTurn"
+            },
+            {
+                "num": 104,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 0,
+                "ordinate": 48,
+                "direction": "LeftTurn",
+                "prop_type": "blank",
+                "next_direction": "Left"
+            },
+            {
+                "num": 105,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 1,
+                "ordinate": 48,
+                "direction": "Left",
+                "prop_type": "blank",
+                "next_direction": "Left"
+            },
+            {
+                "num": 106,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 2,
+                "ordinate": 48,
+                "direction": "Left",
+                "prop_type": "blank",
+                "next_direction": "Left"
+            },
+            {
+                "num": 107,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 3,
+                "ordinate": 48,
+                "direction": "Left",
+                "prop_type": "blank",
+                "next_direction": "Left"
+            },
+            {
+                "num": 108,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 4,
+                "ordinate": 48,
+                "direction": "Left",
+                "prop_type": "blank",
+                "next_direction": "Up"
+            },
+            {
+                "num": 109,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 4,
+                "ordinate": 49,
+                "direction": "Up",
+                "prop_type": "blank",
+                "next_direction": "Up"
+            },
+            {
+                "num": 110,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 4,
+                "ordinate": 50,
+                "direction": "Up",
+                "prop_type": "blank",
+                "next_direction": "RightTurn"
+            },
+            {
+                "num": 111,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 4,
+                "ordinate": 51,
+                "direction": "RightTurn",
+                "prop_type": "blank",
+                "next_direction": "Right"
+            },
+            {
+                "num": 112,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 3,
+                "ordinate": 51,
+                "direction": "Right",
+                "prop_type": "blank",
+                "next_direction": "Right"
+            },
+            {
+                "num": 113,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 2,
+                "ordinate": 51,
+                "direction": "Right",
+                "prop_type": "blank",
+                "next_direction": "RightTurn"
+            },
+            {
+                "num": 114,
+                "type": "Normal",
+                "prop_id": 84,
+                "abscissa": 2,
+                "ordinate": 52,
+                "direction": "RightTurn",
+                "prop_type": "banana_peel",
+                "next_direction": "Right"
+            },
+            {
+                "num": 115,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 1,
+                "ordinate": 52,
+                "direction": "Right",
+                "prop_type": "blank",
+                "next_direction": "Right"
+            },
+            {
+                "num": 116,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 0,
+                "ordinate": 52,
+                "direction": "Right",
+                "prop_type": "blank",
+                "next_direction": "Up"
+            },
+            {
+                "num": 117,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 0,
+                "ordinate": 53,
+                "direction": "Up",
+                "prop_type": "blank",
+                "next_direction": "LeftTurn"
+            },
+            {
+                "num": 118,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 0,
+                "ordinate": 54,
+                "direction": "LeftTurn",
+                "prop_type": "blank",
+                "next_direction": "Left"
+            },
+            {
+                "num": 119,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 1,
+                "ordinate": 54,
+                "direction": "Left",
+                "prop_type": "blank",
+                "next_direction": "Left"
+            },
+            {
+                "num": 120,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 2,
+                "ordinate": 54,
+                "direction": "Left",
+                "prop_type": "blank",
+                "next_direction": "LeftTurn"
+            },
+            {
+                "num": 121,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 2,
+                "ordinate": 55,
+                "direction": "LeftTurn",
+                "prop_type": "blank",
+                "next_direction": "Left"
+            },
+            {
+                "num": 122,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 3,
+                "ordinate": 55,
+                "direction": "Left",
+                "prop_type": "blank",
+                "next_direction": "Left"
+            },
+            {
+                "num": 123,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 4,
+                "ordinate": 55,
+                "direction": "Left",
+                "prop_type": "blank",
+                "next_direction": "Up"
+            },
+            {
+                "num": 124,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 4,
+                "ordinate": 56,
+                "direction": "Up",
+                "prop_type": "blank",
+                "next_direction": "RightTurn"
+            },
+            {
+                "num": 125,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 4,
+                "ordinate": 57,
+                "direction": "RightTurn",
+                "prop_type": "blank",
+                "next_direction": "Right"
+            },
+            {
+                "num": 126,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 3,
+                "ordinate": 57,
+                "direction": "Right",
+                "prop_type": "blank",
+                "next_direction": "Right"
+            },
+            {
+                "num": 127,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 2,
+                "ordinate": 57,
+                "direction": "Right",
+                "prop_type": "blank",
+                "next_direction": "Right"
+            },
+            {
+                "num": 128,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 1,
+                "ordinate": 57,
+                "direction": "Right",
+                "prop_type": "blank",
+                "next_direction": "Right"
+            },
+            {
+                "num": 129,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 0,
+                "ordinate": 57,
+                "direction": "Right",
+                "prop_type": "blank",
+                "next_direction": "Up"
+            },
+            {
+                "num": 130,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 0,
+                "ordinate": 58,
+                "direction": "Up",
+                "prop_type": "blank",
+                "next_direction": "LeftTurn"
+            },
+            {
+                "num": 131,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 0,
+                "ordinate": 59,
+                "direction": "LeftTurn",
+                "prop_type": "blank",
+                "next_direction": "Left"
+            },
+            {
+                "num": 132,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 1,
+                "ordinate": 59,
+                "direction": "Left",
+                "prop_type": "blank",
+                "next_direction": "Left"
+            },
+            {
+                "num": 133,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 2,
+                "ordinate": 59,
+                "direction": "Left",
+                "prop_type": "blank",
+                "next_direction": "LeftTurn"
+            },
+            {
+                "num": 134,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 2,
+                "ordinate": 60,
+                "direction": "LeftTurn",
+                "prop_type": "blank",
+                "next_direction": "Left"
+            },
+            {
+                "num": 135,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 3,
+                "ordinate": 60,
+                "direction": "Left",
+                "prop_type": "blank",
+                "next_direction": "Left"
+            },
+            {
+                "num": 136,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 4,
+                "ordinate": 60,
+                "direction": "Left",
+                "prop_type": "blank",
+                "next_direction": "Up"
+            },
+            {
+                "num": 137,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 4,
+                "ordinate": 61,
+                "direction": "Up",
+                "prop_type": "blank",
+                "next_direction": "RightTurn"
+            },
+            {
+                "num": 138,
+                "type": "Normal",
+                "prop_id": 83,
+                "abscissa": 4,
+                "ordinate": 62,
+                "direction": "RightTurn",
+                "prop_type": "hamburger",
+                "next_direction": "Right"
+            },
+            {
+                "num": 139,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 3,
+                "ordinate": 62,
+                "direction": "Right",
+                "prop_type": "blank",
+                "next_direction": "Right"
+            },
+            {
+                "num": 140,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 2,
+                "ordinate": 62,
+                "direction": "Right",
+                "prop_type": "blank",
+                "next_direction": "Right"
+            },
+            {
+                "num": 141,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 1,
+                "ordinate": 62,
+                "direction": "Right",
+                "prop_type": "blank",
+                "next_direction": "Right"
+            },
+            {
+                "num": 142,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 0,
+                "ordinate": 62,
+                "direction": "Right",
+                "prop_type": "blank",
+                "next_direction": "Up"
+            },
+            {
+                "num": 143,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 0,
+                "ordinate": 63,
+                "direction": "Up",
+                "prop_type": "blank",
+                "next_direction": "LeftTurn"
+            },
+            {
+                "num": 144,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 0,
+                "ordinate": 64,
+                "direction": "LeftTurn",
+                "prop_type": "blank",
+                "next_direction": "Left"
+            },
+            {
+                "num": 145,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 1,
+                "ordinate": 64,
+                "direction": "Left",
+                "prop_type": "blank",
+                "next_direction": "Left"
+            },
+            {
+                "num": 146,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 2,
+                "ordinate": 64,
+                "direction": "Left",
+                "prop_type": "blank",
+                "next_direction": "Up"
+            },
+            {
+                "num": 147,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 2,
+                "ordinate": 65,
+                "direction": "Up",
+                "prop_type": "blank",
+                "next_direction": "Up"
+            },
+            {
+                "num": 148,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 2,
+                "ordinate": 66,
+                "direction": "Up",
+                "prop_type": "blank",
+                "next_direction": "LeftTurn"
+            },
+            {
+                "num": 149,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 2,
+                "ordinate": 67,
+                "direction": "LeftTurn",
+                "prop_type": "blank",
+                "next_direction": "Left"
+            },
+            {
+                "num": 150,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 3,
+                "ordinate": 67,
+                "direction": "Left",
+                "prop_type": "blank",
+                "next_direction": "Left"
+            },
+            {
+                "num": 151,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 4,
+                "ordinate": 67,
+                "direction": "Left",
+                "prop_type": "blank",
+                "next_direction": "Up"
+            },
+            {
+                "num": 152,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 4,
+                "ordinate": 68,
+                "direction": "Up",
+                "prop_type": "blank",
+                "next_direction": "Up"
+            },
+            {
+                "num": 153,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 4,
+                "ordinate": 69,
+                "direction": "Up",
+                "prop_type": "blank",
+                "next_direction": "RightTurn"
+            },
+            {
+                "num": 154,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 4,
+                "ordinate": 70,
+                "direction": "RightTurn",
+                "prop_type": "blank",
+                "next_direction": "Right"
+            },
+            {
+                "num": 155,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 3,
+                "ordinate": 70,
+                "direction": "Right",
+                "prop_type": "blank",
+                "next_direction": "Right"
+            },
+            {
+                "num": 156,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 2,
+                "ordinate": 70,
+                "direction": "Right",
+                "prop_type": "blank",
+                "next_direction": "Right"
+            },
+            {
+                "num": 157,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 1,
+                "ordinate": 70,
+                "direction": "Right",
+                "prop_type": "blank",
+                "next_direction": "Right"
+            },
+            {
+                "num": 158,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 0,
+                "ordinate": 70,
+                "direction": "Right",
+                "prop_type": "blank",
+                "next_direction": "Up"
+            },
+            {
+                "num": 159,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 0,
+                "ordinate": 71,
+                "direction": "Up",
+                "prop_type": "blank",
+                "next_direction": "Up"
+            },
+            {
+                "num": 160,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 0,
+                "ordinate": 72,
+                "direction": "Up",
+                "prop_type": "blank",
+                "next_direction": "LeftTurn"
+            },
+            {
+                "num": 161,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 0,
+                "ordinate": 73,
+                "direction": "LeftTurn",
+                "prop_type": "blank",
+                "next_direction": "Left"
+            },
+            {
+                "num": 162,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 1,
+                "ordinate": 73,
+                "direction": "Left",
+                "prop_type": "blank",
+                "next_direction": "Left"
+            },
+            {
+                "num": 163,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 2,
+                "ordinate": 73,
+                "direction": "Left",
+                "prop_type": "blank",
+                "next_direction": "Left"
+            },
+            {
+                "num": 164,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 3,
+                "ordinate": 73,
+                "direction": "Left",
+                "prop_type": "blank",
+                "next_direction": "Left"
+            },
+            {
+                "num": 165,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 4,
+                "ordinate": 73,
+                "direction": "Left",
+                "prop_type": "blank",
+                "next_direction": "Up"
+            },
+            {
+                "num": 166,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 4,
+                "ordinate": 74,
+                "direction": "Up",
+                "prop_type": "blank",
+                "next_direction": "RightTurn"
+            },
+            {
+                "num": 167,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 4,
+                "ordinate": 75,
+                "direction": "RightTurn",
+                "prop_type": "blank",
+                "next_direction": "Right"
+            },
+            {
+                "num": 168,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 3,
+                "ordinate": 75,
+                "direction": "Right",
+                "prop_type": "blank",
+                "next_direction": "Right"
+            },
+            {
+                "num": 169,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 2,
+                "ordinate": 75,
+                "direction": "Right",
+                "prop_type": "blank",
+                "next_direction": "Right"
+            },
+            {
+                "num": 170,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 1,
+                "ordinate": 75,
+                "direction": "Right",
+                "prop_type": "blank",
+                "next_direction": "Right"
+            },
+            {
+                "num": 171,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 0,
+                "ordinate": 75,
+                "direction": "Right",
+                "prop_type": "blank",
+                "next_direction": "Up"
+            },
+            {
+                "num": 172,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 0,
+                "ordinate": 76,
+                "direction": "Up",
+                "prop_type": "blank",
+                "next_direction": "LeftTurn"
+            },
+            {
+                "num": 173,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 0,
+                "ordinate": 77,
+                "direction": "LeftTurn",
+                "prop_type": "blank",
+                "next_direction": "Left"
+            },
+            {
+                "num": 174,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 1,
+                "ordinate": 77,
+                "direction": "Left",
+                "prop_type": "blank",
+                "next_direction": "Left"
+            },
+            {
+                "num": 175,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 2,
+                "ordinate": 77,
+                "direction": "Left",
+                "prop_type": "blank",
+                "next_direction": "Left"
+            },
+            {
+                "num": 176,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 3,
+                "ordinate": 77,
+                "direction": "Left",
+                "prop_type": "blank",
+                "next_direction": "Left"
+            },
+            {
+                "num": 177,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 4,
+                "ordinate": 77,
+                "direction": "Left",
+                "prop_type": "blank",
+                "next_direction": "Up"
+            },
+            {
+                "num": 178,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 4,
+                "ordinate": 78,
+                "direction": "Up",
+                "prop_type": "blank",
+                "next_direction": "Up"
+            },
+            {
+                "num": 179,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 4,
+                "ordinate": 79,
+                "direction": "Up",
+                "prop_type": "blank",
+                "next_direction": "RightTurn"
+            },
+            {
+                "num": 180,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 4,
+                "ordinate": 80,
+                "direction": "RightTurn",
+                "prop_type": "blank",
+                "next_direction": "Right"
+            },
+            {
+                "num": 181,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 3,
+                "ordinate": 80,
+                "direction": "Right",
+                "prop_type": "blank",
+                "next_direction": "Right"
+            },
+            {
+                "num": 182,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 2,
+                "ordinate": 80,
+                "direction": "Right",
+                "prop_type": "blank",
+                "next_direction": "RightTurn"
+            },
+            {
+                "num": 183,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 2,
+                "ordinate": 81,
+                "direction": "RightTurn",
+                "prop_type": "blank",
+                "next_direction": "Right"
+            },
+            {
+                "num": 184,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 1,
+                "ordinate": 81,
+                "direction": "Right",
+                "prop_type": "blank",
+                "next_direction": "Right"
+            },
+            {
+                "num": 185,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 0,
+                "ordinate": 81,
+                "direction": "Right",
+                "prop_type": "blank",
+                "next_direction": "Up"
+            },
+            {
+                "num": 186,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 0,
+                "ordinate": 82,
+                "direction": "Up",
+                "prop_type": "blank",
+                "next_direction": "LeftTurn"
+            },
+            {
+                "num": 187,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 0,
+                "ordinate": 83,
+                "direction": "LeftTurn",
+                "prop_type": "blank",
+                "next_direction": "Left"
+            },
+            {
+                "num": 188,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 1,
+                "ordinate": 83,
+                "direction": "Left",
+                "prop_type": "blank",
+                "next_direction": "Left"
+            },
+            {
+                "num": 189,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 2,
+                "ordinate": 83,
+                "direction": "Left",
+                "prop_type": "blank",
+                "next_direction": "LeftTurn"
+            },
+            {
+                "num": 190,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 2,
+                "ordinate": 84,
+                "direction": "LeftTurn",
+                "prop_type": "blank",
+                "next_direction": "Left"
+            },
+            {
+                "num": 191,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 3,
+                "ordinate": 84,
+                "direction": "Left",
+                "prop_type": "blank",
+                "next_direction": "Left"
+            },
+            {
+                "num": 192,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 4,
+                "ordinate": 84,
+                "direction": "Left",
+                "prop_type": "blank",
+                "next_direction": "Up"
+            },
+            {
+                "num": 193,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 4,
+                "ordinate": 85,
+                "direction": "Up",
+                "prop_type": "blank",
+                "next_direction": "Up"
+            },
+            {
+                "num": 194,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 4,
+                "ordinate": 86,
+                "direction": "Up",
+                "prop_type": "blank",
+                "next_direction": "RightTurn"
+            },
+            {
+                "num": 195,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 4,
+                "ordinate": 87,
+                "direction": "RightTurn",
+                "prop_type": "blank",
+                "next_direction": "Right"
+            },
+            {
+                "num": 196,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 3,
+                "ordinate": 87,
+                "direction": "Right",
+                "prop_type": "blank",
+                "next_direction": "Right"
+            },
+            {
+                "num": 197,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 2,
+                "ordinate": 87,
+                "direction": "Right",
+                "prop_type": "blank",
+                "next_direction": "Right"
+            },
+            {
+                "num": 198,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 1,
+                "ordinate": 87,
+                "direction": "Right",
+                "prop_type": "blank",
+                "next_direction": "Right"
+            },
+            {
+                "num": 199,
+                "type": "Normal",
+                "prop_id": 0,
+                "abscissa": 0,
+                "ordinate": 87,
+                "direction": "Right",
+                "prop_type": "blank",
+                "next_direction": "Up"
+            },
+            {
+                "num": 200,
+                "type": "End",
+                "prop_id": 0,
+                "abscissa": 0,
+                "ordinate": 88,
+                "direction": "Up",
+                "prop_type": "blank",
+                "next_direction": ""
+            }
+        ],
+        "rate_type": "2",
+        "prop_info": [
+            {
+                "id": 84,
+                "type": "BananaPeel",
+                "content": {
+                    "num": 3,
+                    "image_url": [
+                        "http:\/\/www.baidu.com",
+                        "http:\/\/www.baidu.com",
+                        "http:\/\/www.baidu.com"
+                    ]
+                }
+            },
+            {
+                "id": 85,
+                "type": "Card",
+                "content": {
+                    "url": "http:\/\/www.baidu.com",
+                    "name": "dd",
+                    "goods_id": 1,
+                    "description": "dd"
+                }
+            },
+            {
+                "id": 83,
+                "type": "Hamburger",
+                "content": {
+                    "num": 3,
+                    "image_url": [
+                        "http:\/\/www.baidu.com",
+                        "http:\/\/www.baidu.com",
+                        "http:\/\/www.baidu.com"
+                    ]
+                }
+            },
+            {
+                "id": 86,
+                "type": "Questionnaire",
+                "content": {
+                    "answer": "a",
+                    "options": [
+                        "a",
+                        "b",
+                        "c"
+                    ],
+                    "question": "\u8fd9\u662f\u4ec0\u4e48\u5783\u573e"
+                }
+            }
+        ]
+    },
+    "sub_code": ""
+}

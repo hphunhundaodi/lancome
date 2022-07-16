@@ -1,0 +1,40 @@
+{
+    "code": 0,
+    "msg": "成功",
+    "data": {
+        "list": [
+            {
+                "type_id": 800199,
+                "type_name": "京东优惠券"
+            },
+            {
+                "type_id": 800200,
+                "type_name": "京豆礼品"
+            },
+            {
+                "type_id": 900001,
+                "type_name": "物流礼品xxx"
+            },
+            {
+                "type_id": 900002,
+                "type_name": "激活码xxx"
+            },
+            {
+                "type_id": 900003,
+                "type_name": "一次性链接优惠券"
+            },
+            {
+                "type_id": 900004,
+                "type_name": "654654"
+            },
+            {
+                "type_id": 900005,
+                "type_name": "激活码+密码"
+            },
+            {
+                "type_id": 900006,
+                "type_name": "短信激活码"
+            }
+        ]
+    }
+}

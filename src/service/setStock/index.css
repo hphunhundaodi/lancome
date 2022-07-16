@@ -1,0 +1,218 @@
+.stock-dialog-box {
+  width: 750px;
+  height: 570px;
+  position: relative;
+}
+
+.stock-dialog-box .stock-title {
+  position: relative;
+  padding: 0 20px;
+  height: 40px;
+  line-height: 40px;
+  font-size: 18px;
+  font-weight: 800;
+  background-color: #f0f0f0;
+}
+
+.stock-dialog-box .stock-open {
+  cursor: pointer;
+  position: absolute;
+  height: 30px;
+  width: 70px;
+  top: 5px;
+  right: 20px;
+  background: #1296db;
+  border-radius: 15px;
+}
+
+.stock-dialog-box .stock-open.close {
+  background: #b9b9b9 !important;
+}
+
+.stock-dialog-box .stock-switch {
+  height: 24px;
+  width: 24px;
+  border-radius: 12px;
+  background: #fff;
+  position: absolute;
+  top: 3px;
+  right: 3px;
+}
+
+.stock-dialog-box .close .stock-switch {
+  left: none;
+  left: 3px;
+}
+
+.stock-dialog-box .stock-form {
+  margin: 10px 0;
+  padding: 20px 20px 0;
+  box-sizing: border-box;
+}
+
+.stock-form .form-box {
+  position: relative;
+  padding-left: 180px;
+  box-sizing: border-box;
+  min-height: 30px;
+}
+
+.stock-dialog-box .label {
+  width: 170px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 30px;
+  text-align: right;
+  line-height: 30px;
+}
+
+.add-phone-box .form-box {
+  padding-left: 160px !important;
+}
+
+.add-phone-box .label {
+  width: 150px !important;
+}
+
+.stock-dialog-box .phone-input {
+  position: relative;
+  padding-left: 150px;
+  line-height: 40px;
+}
+
+.stock-dialog-box .form-content {
+  line-height: 30px;
+}
+
+.stock-dialog-box .add-phone-box {
+  width: 90%;
+  margin: 0 auto;
+  background: #f5fcfe;
+  box-sizing: border-box;
+  position: relative;
+  padding: 15px 150px 15px 0;
+}
+
+.add-phone-box .determine {
+  position: absolute;
+  top: 32px;
+  right: 20px;
+  color: #fff;
+  background-color: #128dff;
+  border: 1px solid #128dff;
+  border-radius: 5px;
+  padding: 2px 10px;
+  cursor: pointer;
+}
+
+.stock-dialog-box .remarks {
+  color: #999;
+  width: 90%;
+  margin: 10px auto 0;
+}
+
+.stock-dialog-box .stock-footer {
+  position: absolute;
+  left: 0;
+  bottom: 10px;
+  width: 100%;
+}
+
+.stock-dialog-box .stock-button {
+  text-align: center;
+  padding: 45px 45px 15px;
+}
+
+.stock-dialog-box .stock-button div {
+  width: 110px;
+  height: 30px;
+  line-height: 30px;
+  display: inline-block;
+  color: #666;
+  border: 1px solid #666;
+  cursor: pointer;
+  border-radius: 5px;
+  margin: 0 10px;
+}
+
+.stock-dialog-box .stock-button .stock-submit {
+  background: #128dff;
+  color: #fff;
+  border: 1px solid #128dff;
+}
+
+.stock-dialog-box .preview-msg {
+  border-top: 1px solid #8ec8ff;
+  box-sizing: border-box;
+  padding: 15px 35px;
+}
+
+.stock-dialog-box .preview-content {
+  margin-top: 10px;
+  width: 450px;
+  border-radius: 10px;
+  box-sizing: border-box;
+  padding: 15px;
+  border: 1px solid #999999;
+}
+
+.stock-dialog-box .add-phone-text {
+  border: 1px solid #666666;
+  padding: 0 5px;
+  display: inline-block;
+  line-height: 20px;
+  margin: 0 10px;
+}
+
+.stock-dialog-box .close-phone-but {
+  cursor: pointer;
+  padding-left: 5px;
+  color: #df3d33;
+}
+
+.stock-dialog-box .getCheckCode {
+  display: inline-block;
+  color: #fff;
+  background: #128dff;
+  padding: 0 20px;
+  line-height: 30px;
+  border-radius: 5px;
+  vertical-align: middle;
+  cursor: pointer;
+}
+
+.stock-dialog-box .disgetCheckCode {
+  display: inline-block;
+  color: #333;
+  border: 1px solid #333;
+  padding: 0 20px;
+  line-height: 30px;
+  border-radius: 5px;
+  vertical-align: middle;
+}
+
+.stock-dialog-box .default-stock-content {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  margin: auto;
+  height: 200px;
+  width: 300px;
+  text-align: center;
+}
+
+.stock-dialog-box .default-stock-content p {
+  margin: 10px auto;
+}
+
+.stock-dialog-box .default-stock-content .close-button {
+  display: inline-block;
+  background: #128dff;
+  color: #fff;
+  border-radius: 10px;
+  padding: 10px 50px;
+  cursor: pointer;
+}

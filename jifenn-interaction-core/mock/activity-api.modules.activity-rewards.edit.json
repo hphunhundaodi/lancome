@@ -1,0 +1,9 @@
+{
+    "code": 0,
+    "msg": "成功",
+    "data": {
+        "remaining_stock": 21,
+        "total_stock": 41
+    },
+    "sub_code": ""
+}

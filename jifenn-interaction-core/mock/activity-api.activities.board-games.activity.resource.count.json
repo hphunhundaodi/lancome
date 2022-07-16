@@ -1,0 +1,11 @@
+{
+    "code": 0,
+    "msg": "\u6210\u529f",
+    "data": {
+        "grid_count": 200,
+        "card_count": 1,
+        "questionnaire_count": 1,
+        "prop_count": 6
+    },
+    "sub_code": ""
+}

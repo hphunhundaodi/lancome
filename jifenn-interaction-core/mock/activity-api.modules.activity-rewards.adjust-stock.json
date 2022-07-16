@@ -1,0 +1,10 @@
+{
+    "code": 0,
+    "msg": "\u6210\u529f",
+    "data": {
+        "total_stock": 40,
+        "remaining_stock": 40,
+        "gift_availabled": 666959
+    },
+    "sub_code": ""
+}

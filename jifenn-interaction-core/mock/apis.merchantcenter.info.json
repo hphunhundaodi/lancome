@@ -1,0 +1,17 @@
+{
+	"code": 0,
+	"msg": "成功",
+	"data": {
+		"merchant_num": 1900088,
+		"cellphone": "15920434542",
+		"email": "qiujx@jifenn.com",
+		"province": "",
+		"city": "",
+		"district": "",
+		"corporate_name": "",
+		"industry": null,
+		"qq": "",
+		"weixin": "",
+		"msg_signature": "【云积分】"
+	}
+}

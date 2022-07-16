@@ -1,0 +1,82 @@
+{
+    "code": 0,
+    "msg": "\u6210\u529f",
+    "data": {
+        "trend_chart": {
+            "day_uv": {
+                "2020-02-01": 19,
+                "2020-02-02": 23
+            },
+            "accu_uv": {
+                "2020-02-01": 44,
+                "2020-02-02": 34
+            },
+            "accu_pv": {
+                "2020-02-01": 12,
+                "2020-02-02": 45
+            },
+            "accu_member": {
+                "2020-02-01": 34,
+                "2020-02-02": 64
+            },
+            "accu_unmember": {
+                "2020-02-01": 55,
+                "2020-02-02": 45
+            },
+            "day_inc_member": {
+                "2020-02-01": 34,
+                "2020-02-02": 34
+            },
+            "accu_inc_member": {
+                "2020-02-01": 567,
+                "2020-02-02": 567
+            },
+            "accu_new_member": {
+                "2020-02-01": 76,
+                "2020-02-02": 76
+            },
+            "accu_reactive_member": {
+                "2020-02-01": 4,
+                "2020-02-02": 4
+            },
+            "day_card_shares": {
+                "2020-02-01": 55,
+                "2020-02-02": 55
+            },
+            "accu_card_shares": {
+                "2020-02-01": 73,
+                "2020-02-02": 73
+            },
+            "day_card_join_activity": {
+                "2020-02-01": 45,
+                "2020-02-02": 45
+            },
+            "accu_card_join_activity": {
+                "2020-02-01": 654,
+                "2020-02-02": 654
+            },
+            "day_consume_point": {
+                "2020-02-01": 654,
+                "2020-02-02": 654
+            }
+        },
+        "basic": {
+            "day_uv": 23,
+            "accu_uv": 34,
+            "accu_pv": 45,
+            "accu_member": 64,
+            "accu_unmember": 45,
+            "day_inc_member": 34,
+            "accu_inc_member": 567,
+            "accu_new_member": 76,
+            "accu_reactive_member": 4,
+            "day_card_shares": 55,
+            "accu_card_shares": 73,
+            "day_card_join_activity": 45,
+            "accu_card_join_activity": 654,
+            "accu_consume_point": 0,
+            "day_consume_point": 0
+        }
+    },
+    "sub_code": ""
+}

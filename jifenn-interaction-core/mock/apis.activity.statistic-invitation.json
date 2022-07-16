@@ -1,0 +1,16 @@
+{
+	"code": 0,
+	"msg": "成功",
+	"data": {
+		"all_open_invited_uv": null,
+		"all_turn_main": null,
+		"turn_main": null,
+		"invitation_per_inviter": 0,
+        "last_invitation_per_inviter": 0,
+        "self_to_register_num": 999,
+        "invited_register_num": 777,
+		"stairs_count": [],
+		"max_key": 20,
+		"date": "2020-02-19"
+	}
+}
